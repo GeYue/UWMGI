@@ -1,0 +1,87 @@
+2022/06/15 21:05:46 - INFO -:: logger started. 💭Model:UnetPlusPlus---efficientnet-b2 KFold=5 🔴🟡🟢 ['./Enhanced-UMW-UNet.py']
+2022/06/15 21:05:50 - INFO -:: ☠️☠️☠️ Only run fold=4, fold[0] skipped!!!🏮🏮🏮
+2022/06/15 21:05:50 - INFO -:: ☠️☠️☠️ Only run fold=4, fold[1] skipped!!!🏮🏮🏮
+2022/06/15 21:05:50 - INFO -:: ☠️☠️☠️ Only run fold=4, fold[2] skipped!!!🏮🏮🏮
+2022/06/15 21:05:50 - INFO -:: ☠️☠️☠️ Only run fold=4, fold[3] skipped!!!🏮🏮🏮
+2022/06/15 21:05:53 - INFO -:: Running fold--->4 🌱🌱🌱⚡️🍄🍄🍄
+2022/06/15 21:19:25 - INFO -:: LR::0.001975 〽️
+2022/06/15 21:19:25 - INFO -:: Epoch:1/15 ## Valid Dice: 0.8045 | Valid Jaccard: 0.7730
+2022/06/15 21:19:25 - INFO -:: Valid Score Improved (-inf ---> 0.8045)
+2022/06/15 21:19:25 - INFO -:: Model Saved ---> best_epoch-04.bin 💯🆕!!
+2022/06/15 21:19:25 - INFO -:: Epoch 1 complete in 0h 13m 32s
+
+2022/06/15 21:32:48 - INFO -:: LR::0.001902 〽️
+2022/06/15 21:32:48 - INFO -:: Epoch:2/15 ## Valid Dice: 0.8731 | Valid Jaccard: 0.8396
+2022/06/15 21:32:48 - INFO -:: Valid Score Improved (0.8045 ---> 0.8731)
+2022/06/15 21:32:49 - INFO -:: Model Saved ---> best_epoch-04.bin 💯🆕!!
+2022/06/15 21:32:49 - INFO -:: Epoch 2 complete in 0h 13m 23s
+
+2022/06/15 21:46:19 - INFO -:: LR::0.001783 〽️
+2022/06/15 21:46:19 - INFO -:: Epoch:3/15 ## Valid Dice: 0.8628 | Valid Jaccard: 0.8304
+2022/06/15 21:46:19 - INFO -:: Epoch 3 complete in 0h 13m 30s
+
+2022/06/15 21:59:41 - INFO -:: LR::0.001625 〽️
+2022/06/15 21:59:41 - INFO -:: Epoch:4/15 ## Valid Dice: 0.8766 | Valid Jaccard: 0.8456
+2022/06/15 21:59:41 - INFO -:: Valid Score Improved (0.8731 ---> 0.8766)
+2022/06/15 21:59:41 - INFO -:: Model Saved ---> best_epoch-04.bin 💯🆕!!
+2022/06/15 21:59:41 - INFO -:: Epoch 4 complete in 0h 13m 22s
+
+2022/06/15 22:13:08 - INFO -:: LR::0.001437 〽️
+2022/06/15 22:13:08 - INFO -:: Epoch:5/15 ## Valid Dice: 0.8875 | Valid Jaccard: 0.8563
+2022/06/15 22:13:08 - INFO -:: Valid Score Improved (0.8766 ---> 0.8875)
+2022/06/15 22:13:09 - INFO -:: Model Saved ---> best_epoch-04.bin 💯🆕!!
+2022/06/15 22:13:09 - INFO -:: Epoch 5 complete in 0h 13m 27s
+
+2022/06/15 22:26:33 - INFO -:: LR::0.001226 〽️
+2022/06/15 22:26:33 - INFO -:: Epoch:6/15 ## Valid Dice: 0.8883 | Valid Jaccard: 0.8578
+2022/06/15 22:26:33 - INFO -:: Valid Score Improved (0.8875 ---> 0.8883)
+2022/06/15 22:26:33 - INFO -:: Model Saved ---> best_epoch-04.bin 💯🆕!!
+2022/06/15 22:26:33 - INFO -:: Epoch 6 complete in 0h 13m 24s
+
+2022/06/15 22:39:56 - INFO -:: LR::0.001004 〽️
+2022/06/15 22:39:56 - INFO -:: Epoch:7/15 ## Valid Dice: 0.8857 | Valid Jaccard: 0.8534
+2022/06/15 22:39:56 - INFO -:: Epoch 7 complete in 0h 13m 22s
+
+2022/06/15 22:53:21 - INFO -:: LR::0.000782 〽️
+2022/06/15 22:53:21 - INFO -:: Epoch:8/15 ## Valid Dice: 0.8928 | Valid Jaccard: 0.8610
+2022/06/15 22:53:21 - INFO -:: Valid Score Improved (0.8883 ---> 0.8928)
+2022/06/15 22:53:21 - INFO -:: Model Saved ---> best_epoch-04.bin 💯🆕!!
+2022/06/15 22:53:21 - INFO -:: Epoch 8 complete in 0h 13m 25s
+
+2022/06/15 23:06:44 - INFO -:: LR::0.000571 〽️
+2022/06/15 23:06:44 - INFO -:: Epoch:9/15 ## Valid Dice: 0.8962 | Valid Jaccard: 0.8659
+2022/06/15 23:06:44 - INFO -:: Valid Score Improved (0.8928 ---> 0.8962)
+2022/06/15 23:06:44 - INFO -:: Model Saved ---> best_epoch-04.bin 💯🆕!!
+2022/06/15 23:06:44 - INFO -:: Epoch 9 complete in 0h 13m 23s
+
+2022/06/15 23:20:07 - INFO -:: LR::0.000382 〽️
+2022/06/15 23:20:07 - INFO -:: Epoch:10/15 ## Valid Dice: 0.9022 | Valid Jaccard: 0.8715
+2022/06/15 23:20:07 - INFO -:: Valid Score Improved (0.8962 ---> 0.9022)
+2022/06/15 23:20:08 - INFO -:: Model Saved ---> best_epoch-04.bin 💯🆕!!
+2022/06/15 23:20:08 - INFO -:: Epoch 10 complete in 0h 13m 23s
+
+2022/06/15 23:33:32 - INFO -:: LR::0.000223 〽️
+2022/06/15 23:33:32 - INFO -:: Epoch:11/15 ## Valid Dice: 0.8950 | Valid Jaccard: 0.8658
+2022/06/15 23:33:32 - INFO -:: Epoch 11 complete in 0h 13m 24s
+
+2022/06/15 23:46:53 - INFO -:: LR::0.000102 〽️
+2022/06/15 23:46:53 - INFO -:: Epoch:12/15 ## Valid Dice: 0.8997 | Valid Jaccard: 0.8702
+2022/06/15 23:46:53 - INFO -:: Epoch 12 complete in 0h 13m 21s
+
+2022/06/16 00:00:16 - INFO -:: LR::0.000027 〽️
+2022/06/16 00:00:16 - INFO -:: Epoch:13/15 ## Valid Dice: 0.9019 | Valid Jaccard: 0.8721
+2022/06/16 00:00:16 - INFO -:: Epoch 13 complete in 0h 13m 23s
+
+2022/06/16 00:13:40 - INFO -:: LR::0.000000 〽️
+2022/06/16 00:13:40 - INFO -:: Epoch:14/15 ## Valid Dice: 0.9020 | Valid Jaccard: 0.8723
+2022/06/16 00:13:40 - INFO -:: Epoch 14 complete in 0h 13m 23s
+
+2022/06/16 00:27:06 - INFO -:: LR::0.000023 〽️
+2022/06/16 00:27:06 - INFO -:: Epoch:15/15 ## Valid Dice: 0.9026 | Valid Jaccard: 0.8727
+2022/06/16 00:27:06 - INFO -:: Valid Score Improved (0.9022 ---> 0.9026)
+2022/06/16 00:27:07 - INFO -:: Model Saved ---> best_epoch-04.bin 💯🆕!!
+2022/06/16 00:27:07 - INFO -:: Epoch 15 complete in 0h 13m 26s
+
+2022/06/16 00:27:07 - INFO -:: Training[4] complete in 3h 21m 14s ⛳️🐢🐢🐢
+2022/06/16 00:27:07 - INFO -:: Best Score: jaccard=0.8727, dice=0.9026 in epoch[15]🌟✨✨
+

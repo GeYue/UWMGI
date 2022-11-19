@@ -1,0 +1,1253 @@
+2022/06/19 16:17:01 - INFO -:: logger started. 💭UWMGI-Monai:: 🔴🟡🟢
+2022/06/19 16:17:11 - INFO -:: Fold==0, Weights==None, Resume=False__0
+2022/06/19 16:20:43 - INFO -:: Eval:: dice_score: 0.027721 hausdorff_score: 0.15386 all_score: 0.10341
+2022/06/19 16:22:50 - INFO -:: Epoch[0000]-Train_Loss: 0.9739
+2022/06/19 16:24:46 - INFO -:: Epoch[0001]-Train_Loss: 0.9689
+2022/06/19 16:26:47 - INFO -:: Epoch[0002]-Train_Loss: 0.9598
+2022/06/19 16:28:49 - INFO -:: Epoch[0003]-Train_Loss: 0.9476
+2022/06/19 16:30:47 - INFO -:: Epoch[0004]-Train_Loss: 0.9279
+2022/06/19 16:32:44 - INFO -:: Epoch[0005]-Train_Loss: 0.9024
+2022/06/19 16:34:42 - INFO -:: Epoch[0006]-Train_Loss: 0.8665
+2022/06/19 16:36:39 - INFO -:: Epoch[0007]-Train_Loss: 0.8252
+2022/06/19 16:38:39 - INFO -:: Epoch[0008]-Train_Loss: 0.8069
+2022/06/19 16:40:38 - INFO -:: Epoch[0009]-Train_Loss: 0.7711
+2022/06/19 16:42:35 - INFO -:: Epoch[0010]-Train_Loss: 0.7425
+2022/06/19 16:44:34 - INFO -:: Epoch[0011]-Train_Loss: 0.7105
+2022/06/19 16:46:31 - INFO -:: Epoch[0012]-Train_Loss: 0.7364
+2022/06/19 16:48:28 - INFO -:: Epoch[0013]-Train_Loss: 0.6918
+2022/06/19 16:50:26 - INFO -:: Epoch[0014]-Train_Loss: 0.6759
+2022/06/19 16:52:24 - INFO -:: Epoch[0015]-Train_Loss: 0.6614
+2022/06/19 16:54:22 - INFO -:: Epoch[0016]-Train_Loss: 0.6305
+2022/06/19 16:56:21 - INFO -:: Epoch[0017]-Train_Loss: 0.6193
+2022/06/19 16:58:20 - INFO -:: Epoch[0018]-Train_Loss: 0.6069
+2022/06/19 17:00:18 - INFO -:: Epoch[0019]-Train_Loss: 0.6292
+2022/06/19 17:02:37 - INFO -:: Eval:: dice_score: 0.30271 hausdorff_score: 0.79076 all_score: 0.59554
+2022/06/19 17:02:44 - INFO -:: Find better metric: val_metric 0.10341 -> 0.59554 💯🆕 in epoch[19] !!!
+2022/06/19 17:04:39 - INFO -:: Epoch[0020]-Train_Loss: 0.5836
+2022/06/19 17:06:40 - INFO -:: Epoch[0021]-Train_Loss: 0.5876
+2022/06/19 17:08:40 - INFO -:: Epoch[0022]-Train_Loss: 0.5706
+2022/06/19 17:10:39 - INFO -:: Epoch[0023]-Train_Loss: 0.5572
+2022/06/19 17:12:36 - INFO -:: Epoch[0024]-Train_Loss: 0.6215
+2022/06/19 17:13:46 - INFO -:: Eval:: dice_score: 0.39527 hausdorff_score: 0.74323 all_score: 0.60404
+2022/06/19 17:13:53 - INFO -:: Find better metric: val_metric 0.59554 -> 0.60404 💯🆕 in epoch[24] !!!
+2022/06/19 17:15:48 - INFO -:: Epoch[0025]-Train_Loss: 0.5418
+2022/06/19 17:17:45 - INFO -:: Epoch[0026]-Train_Loss: 0.5333
+2022/06/19 17:19:44 - INFO -:: Epoch[0027]-Train_Loss: 0.5114
+2022/06/19 17:21:41 - INFO -:: Epoch[0028]-Train_Loss: 0.4985
+2022/06/19 17:23:40 - INFO -:: Epoch[0029]-Train_Loss: 0.4935
+2022/06/19 17:26:37 - INFO -:: Eval:: dice_score: 0.41634 hausdorff_score: 0.8477 all_score: 0.67516
+2022/06/19 17:26:45 - INFO -:: Find better metric: val_metric 0.60404 -> 0.67516 💯🆕 in epoch[29] !!!
+2022/06/19 17:28:39 - INFO -:: Epoch[0030]-Train_Loss: 0.4885
+2022/06/19 17:30:39 - INFO -:: Epoch[0031]-Train_Loss: 0.4692
+2022/06/19 17:32:37 - INFO -:: Epoch[0032]-Train_Loss: 0.4838
+2022/06/19 17:34:35 - INFO -:: Epoch[0033]-Train_Loss: 0.4557
+2022/06/19 17:36:36 - INFO -:: Epoch[0034]-Train_Loss: 0.4363
+2022/06/19 17:39:28 - INFO -:: Eval:: dice_score: 0.48369 hausdorff_score: 0.79006 all_score: 0.66751
+2022/06/19 17:41:28 - INFO -:: Epoch[0035]-Train_Loss: 0.4298
+2022/06/19 17:43:28 - INFO -:: Epoch[0036]-Train_Loss: 0.4200
+2022/06/19 17:45:27 - INFO -:: Epoch[0037]-Train_Loss: 0.3993
+2022/06/19 17:47:26 - INFO -:: Epoch[0038]-Train_Loss: 0.3803
+2022/06/19 17:49:26 - INFO -:: Epoch[0039]-Train_Loss: 0.3855
+2022/06/19 17:52:09 - INFO -:: Eval:: dice_score: 0.54879 hausdorff_score: 0.91028 all_score: 0.76568
+2022/06/19 17:52:17 - INFO -:: Find better metric: val_metric 0.67516 -> 0.76568 💯🆕 in epoch[39] !!!
+2022/06/19 17:54:09 - INFO -:: Epoch[0040]-Train_Loss: 0.3563
+2022/06/19 17:56:10 - INFO -:: Epoch[0041]-Train_Loss: 0.3551
+2022/06/19 17:58:07 - INFO -:: Epoch[0042]-Train_Loss: 0.3757
+2022/06/19 18:00:09 - INFO -:: Epoch[0043]-Train_Loss: 0.3428
+2022/06/19 18:02:06 - INFO -:: Epoch[0044]-Train_Loss: 0.3106
+2022/06/19 18:04:29 - INFO -:: Eval:: dice_score: 0.6406 hausdorff_score: 0.89765 all_score: 0.79483
+2022/06/19 18:04:36 - INFO -:: Find better metric: val_metric 0.76568 -> 0.79483 💯🆕 in epoch[44] !!!
+2022/06/19 18:06:27 - INFO -:: Epoch[0045]-Train_Loss: 0.3297
+2022/06/19 18:08:29 - INFO -:: Epoch[0046]-Train_Loss: 0.3305
+2022/06/19 18:10:29 - INFO -:: Epoch[0047]-Train_Loss: 0.3256
+2022/06/19 18:12:27 - INFO -:: Epoch[0048]-Train_Loss: 0.3026
+2022/06/19 18:14:25 - INFO -:: Epoch[0049]-Train_Loss: 0.3030
+2022/06/19 18:18:39 - INFO -:: Eval:: dice_score: 0.66192 hausdorff_score: 0.91359 all_score: 0.81292
+2022/06/19 18:18:46 - INFO -:: Find better metric: val_metric 0.79483 -> 0.81292 💯🆕 in epoch[49] !!!
+2022/06/19 18:20:42 - INFO -:: Epoch[0050]-Train_Loss: 0.2905
+2022/06/19 18:22:39 - INFO -:: Epoch[0051]-Train_Loss: 0.3178
+2022/06/19 18:24:41 - INFO -:: Epoch[0052]-Train_Loss: 0.2833
+2022/06/19 18:26:42 - INFO -:: Epoch[0053]-Train_Loss: 0.2748
+2022/06/19 18:28:40 - INFO -:: Epoch[0054]-Train_Loss: 0.2758
+2022/06/19 18:33:32 - INFO -:: Eval:: dice_score: 0.67152 hausdorff_score: 0.86885 all_score: 0.78992
+2022/06/19 18:35:30 - INFO -:: Epoch[0055]-Train_Loss: 0.2579
+2022/06/19 18:37:29 - INFO -:: Epoch[0056]-Train_Loss: 0.2630
+2022/06/19 18:39:27 - INFO -:: Epoch[0057]-Train_Loss: 0.2756
+2022/06/19 18:41:26 - INFO -:: Epoch[0058]-Train_Loss: 0.2660
+2022/06/19 18:43:23 - INFO -:: Epoch[0059]-Train_Loss: 0.2669
+2022/06/19 18:48:01 - INFO -:: Eval:: dice_score: 0.68926 hausdorff_score: 0.90434 all_score: 0.81831
+2022/06/19 18:48:08 - INFO -:: Find better metric: val_metric 0.81292 -> 0.81831 💯🆕 in epoch[59] !!!
+2022/06/19 18:50:03 - INFO -:: Epoch[0060]-Train_Loss: 0.2513
+2022/06/19 18:52:02 - INFO -:: Epoch[0061]-Train_Loss: 0.2603
+2022/06/19 18:53:59 - INFO -:: Epoch[0062]-Train_Loss: 0.2630
+2022/06/19 18:55:58 - INFO -:: Epoch[0063]-Train_Loss: 0.2487
+2022/06/19 18:57:57 - INFO -:: Epoch[0064]-Train_Loss: 0.2506
+2022/06/19 19:03:08 - INFO -:: Eval:: dice_score: 0.69437 hausdorff_score: 0.91719 all_score: 0.82806
+2022/06/19 19:03:16 - INFO -:: Find better metric: val_metric 0.81831 -> 0.82806 💯🆕 in epoch[64] !!!
+2022/06/19 19:05:10 - INFO -:: Epoch[0065]-Train_Loss: 0.2466
+2022/06/19 19:07:10 - INFO -:: Epoch[0066]-Train_Loss: 0.2421
+2022/06/19 19:09:09 - INFO -:: Epoch[0067]-Train_Loss: 0.2432
+2022/06/19 19:11:08 - INFO -:: Epoch[0068]-Train_Loss: 0.2414
+2022/06/19 19:13:06 - INFO -:: Epoch[0069]-Train_Loss: 0.2345
+2022/06/19 19:18:19 - INFO -:: Eval:: dice_score: 0.71059 hausdorff_score: 0.91871 all_score: 0.83546
+2022/06/19 19:18:26 - INFO -:: Find better metric: val_metric 0.82806 -> 0.83546 💯🆕 in epoch[69] !!!
+2022/06/19 19:20:20 - INFO -:: Epoch[0070]-Train_Loss: 0.2320
+2022/06/19 19:22:18 - INFO -:: Epoch[0071]-Train_Loss: 0.2296
+2022/06/19 19:24:19 - INFO -:: Epoch[0072]-Train_Loss: 0.2301
+2022/06/19 19:26:17 - INFO -:: Epoch[0073]-Train_Loss: 0.2346
+2022/06/19 19:28:15 - INFO -:: Epoch[0074]-Train_Loss: 0.2553
+2022/06/19 19:33:37 - INFO -:: Eval:: dice_score: 0.70743 hausdorff_score: 0.92895 all_score: 0.84034
+2022/06/19 19:33:44 - INFO -:: Find better metric: val_metric 0.83546 -> 0.84034 💯🆕 in epoch[74] !!!
+2022/06/19 19:35:36 - INFO -:: Epoch[0075]-Train_Loss: 0.2316
+2022/06/19 19:37:37 - INFO -:: Epoch[0076]-Train_Loss: 0.2280
+2022/06/19 19:39:35 - INFO -:: Epoch[0077]-Train_Loss: 0.2190
+2022/06/19 19:41:37 - INFO -:: Epoch[0078]-Train_Loss: 0.2306
+2022/06/19 19:43:35 - INFO -:: Epoch[0079]-Train_Loss: 0.2200
+2022/06/19 19:48:55 - INFO -:: Eval:: dice_score: 0.71845 hausdorff_score: 0.92523 all_score: 0.84252
+2022/06/19 19:49:03 - INFO -:: Find better metric: val_metric 0.84034 -> 0.84252 💯🆕 in epoch[79] !!!
+2022/06/19 19:50:56 - INFO -:: Epoch[0080]-Train_Loss: 0.2195
+2022/06/19 19:52:54 - INFO -:: Epoch[0081]-Train_Loss: 0.2260
+2022/06/19 19:54:53 - INFO -:: Epoch[0082]-Train_Loss: 0.2176
+2022/06/19 19:56:51 - INFO -:: Epoch[0083]-Train_Loss: 0.2256
+2022/06/19 19:58:49 - INFO -:: Epoch[0084]-Train_Loss: 0.2210
+2022/06/19 20:05:02 - INFO -:: Eval:: dice_score: 0.72047 hausdorff_score: 0.92781 all_score: 0.84487
+2022/06/19 20:05:09 - INFO -:: Find better metric: val_metric 0.84252 -> 0.84487 💯🆕 in epoch[84] !!!
+2022/06/19 20:07:03 - INFO -:: Epoch[0085]-Train_Loss: 0.2156
+2022/06/19 20:08:59 - INFO -:: Epoch[0086]-Train_Loss: 0.2137
+2022/06/19 20:10:56 - INFO -:: Epoch[0087]-Train_Loss: 0.2189
+2022/06/19 20:12:57 - INFO -:: Epoch[0088]-Train_Loss: 0.2155
+2022/06/19 20:14:56 - INFO -:: Epoch[0089]-Train_Loss: 0.2157
+2022/06/19 20:21:04 - INFO -:: Eval:: dice_score: 0.72989 hausdorff_score: 0.93035 all_score: 0.85017
+2022/06/19 20:21:12 - INFO -:: Find better metric: val_metric 0.84487 -> 0.85017 💯🆕 in epoch[89] !!!
+2022/06/19 20:23:05 - INFO -:: Epoch[0090]-Train_Loss: 0.2275
+2022/06/19 20:25:04 - INFO -:: Epoch[0091]-Train_Loss: 0.2128
+2022/06/19 20:27:05 - INFO -:: Epoch[0092]-Train_Loss: 0.2157
+2022/06/19 20:29:03 - INFO -:: Epoch[0093]-Train_Loss: 0.2084
+2022/06/19 20:31:05 - INFO -:: Epoch[0094]-Train_Loss: 0.2200
+2022/06/19 20:37:29 - INFO -:: Eval:: dice_score: 0.73356 hausdorff_score: 0.92736 all_score: 0.84984
+2022/06/19 20:39:28 - INFO -:: Epoch[0095]-Train_Loss: 0.2220
+2022/06/19 20:41:28 - INFO -:: Epoch[0096]-Train_Loss: 0.2110
+2022/06/19 20:43:25 - INFO -:: Epoch[0097]-Train_Loss: 0.2149
+2022/06/19 20:45:21 - INFO -:: Epoch[0098]-Train_Loss: 0.2111
+2022/06/19 20:47:21 - INFO -:: Epoch[0099]-Train_Loss: 0.2864
+2022/06/19 20:53:54 - INFO -:: Eval:: dice_score: 0.6749 hausdorff_score: 0.87828 all_score: 0.79693
+2022/06/19 20:55:52 - INFO -:: Epoch[0100]-Train_Loss: 0.2674
+2022/06/19 20:57:51 - INFO -:: Epoch[0101]-Train_Loss: 0.2542
+2022/06/19 20:59:49 - INFO -:: Epoch[0102]-Train_Loss: 0.2690
+2022/06/19 21:01:47 - INFO -:: Epoch[0103]-Train_Loss: 0.2525
+2022/06/19 21:03:44 - INFO -:: Epoch[0104]-Train_Loss: 0.2499
+2022/06/19 21:10:06 - INFO -:: Eval:: dice_score: 0.68605 hausdorff_score: 0.92781 all_score: 0.83111
+2022/06/19 21:12:06 - INFO -:: Epoch[0105]-Train_Loss: 0.2812
+2022/06/19 21:14:04 - INFO -:: Epoch[0106]-Train_Loss: 0.2776
+2022/06/19 21:16:03 - INFO -:: Epoch[0107]-Train_Loss: 0.2610
+2022/06/19 21:18:02 - INFO -:: Epoch[0108]-Train_Loss: 0.2627
+2022/06/19 21:19:59 - INFO -:: Epoch[0109]-Train_Loss: 0.2460
+2022/06/19 21:27:20 - INFO -:: Eval:: dice_score: 0.69906 hausdorff_score: 0.9404 all_score: 0.84387
+2022/06/19 21:29:21 - INFO -:: Epoch[0110]-Train_Loss: 0.2350
+2022/06/19 21:31:19 - INFO -:: Epoch[0111]-Train_Loss: 0.2328
+2022/06/19 21:33:18 - INFO -:: Epoch[0112]-Train_Loss: 0.2222
+2022/06/19 21:35:16 - INFO -:: Epoch[0113]-Train_Loss: 0.2403
+2022/06/19 21:37:15 - INFO -:: Epoch[0114]-Train_Loss: 0.2279
+2022/06/19 21:44:35 - INFO -:: Eval:: dice_score: 0.73142 hausdorff_score: 0.93361 all_score: 0.85274
+2022/06/19 21:44:42 - INFO -:: Find better metric: val_metric 0.85017 -> 0.85274 💯🆕 in epoch[114] !!!
+2022/06/19 21:46:37 - INFO -:: Epoch[0115]-Train_Loss: 0.2444
+2022/06/19 21:48:36 - INFO -:: Epoch[0116]-Train_Loss: 0.2207
+2022/06/19 21:50:35 - INFO -:: Epoch[0117]-Train_Loss: 0.2285
+2022/06/19 21:52:35 - INFO -:: Epoch[0118]-Train_Loss: 0.2191
+2022/06/19 21:54:33 - INFO -:: Epoch[0119]-Train_Loss: 0.2191
+2022/06/19 22:01:20 - INFO -:: Eval:: dice_score: 0.72114 hausdorff_score: 0.94454 all_score: 0.85518
+2022/06/19 22:01:26 - INFO -:: Find better metric: val_metric 0.85274 -> 0.85518 💯🆕 in epoch[119] !!!
+2022/06/19 22:03:22 - INFO -:: Epoch[0120]-Train_Loss: 0.2188
+2022/06/19 22:05:22 - INFO -:: Epoch[0121]-Train_Loss: 0.2167
+2022/06/19 22:07:23 - INFO -:: Epoch[0122]-Train_Loss: 0.2134
+2022/06/19 22:09:26 - INFO -:: Epoch[0123]-Train_Loss: 0.2129
+2022/06/19 22:11:26 - INFO -:: Epoch[0124]-Train_Loss: 0.2261
+2022/06/19 22:18:30 - INFO -:: Eval:: dice_score: 0.68435 hausdorff_score: 0.93452 all_score: 0.83446
+2022/06/19 22:20:26 - INFO -:: Epoch[0125]-Train_Loss: 0.2137
+2022/06/19 22:22:22 - INFO -:: Epoch[0126]-Train_Loss: 0.2145
+2022/06/19 22:24:19 - INFO -:: Epoch[0127]-Train_Loss: 0.2039
+2022/06/19 22:26:18 - INFO -:: Epoch[0128]-Train_Loss: 0.2012
+2022/06/19 22:28:14 - INFO -:: Epoch[0129]-Train_Loss: 0.1907
+2022/06/19 22:35:36 - INFO -:: Eval:: dice_score: 0.73028 hausdorff_score: 0.93708 all_score: 0.85436
+2022/06/19 22:37:32 - INFO -:: Epoch[0130]-Train_Loss: 0.2018
+2022/06/19 22:39:31 - INFO -:: Epoch[0131]-Train_Loss: 0.1872
+2022/06/19 22:41:27 - INFO -:: Epoch[0132]-Train_Loss: 0.2010
+2022/06/19 22:43:29 - INFO -:: Epoch[0133]-Train_Loss: 0.1934
+2022/06/19 22:45:28 - INFO -:: Epoch[0134]-Train_Loss: 0.1818
+2022/06/19 22:52:24 - INFO -:: Eval:: dice_score: 0.76111 hausdorff_score: 0.93349 all_score: 0.86454
+2022/06/19 22:52:31 - INFO -:: Find better metric: val_metric 0.85518 -> 0.86454 💯🆕 in epoch[134] !!!
+2022/06/19 22:54:27 - INFO -:: Epoch[0135]-Train_Loss: 0.1905
+2022/06/19 22:56:24 - INFO -:: Epoch[0136]-Train_Loss: 0.1807
+2022/06/19 22:58:23 - INFO -:: Epoch[0137]-Train_Loss: 0.1920
+2022/06/19 23:00:21 - INFO -:: Epoch[0138]-Train_Loss: 0.1991
+2022/06/19 23:02:20 - INFO -:: Epoch[0139]-Train_Loss: 0.1974
+2022/06/19 23:10:15 - INFO -:: Eval:: dice_score: 0.76099 hausdorff_score: 0.94003 all_score: 0.86842
+2022/06/19 23:10:22 - INFO -:: Find better metric: val_metric 0.86454 -> 0.86842 💯🆕 in epoch[139] !!!
+2022/06/19 23:12:13 - INFO -:: Epoch[0140]-Train_Loss: 0.1874
+2022/06/19 23:14:10 - INFO -:: Epoch[0141]-Train_Loss: 0.1837
+2022/06/19 23:16:10 - INFO -:: Epoch[0142]-Train_Loss: 0.1764
+2022/06/19 23:18:08 - INFO -:: Epoch[0143]-Train_Loss: 0.1779
+2022/06/19 23:20:08 - INFO -:: Epoch[0144]-Train_Loss: 0.1746
+2022/06/19 23:27:31 - INFO -:: Eval:: dice_score: 0.76699 hausdorff_score: 0.94379 all_score: 0.87307
+2022/06/19 23:27:39 - INFO -:: Find better metric: val_metric 0.86842 -> 0.87307 💯🆕 in epoch[144] !!!
+2022/06/19 23:29:35 - INFO -:: Epoch[0145]-Train_Loss: 0.1817
+2022/06/19 23:31:35 - INFO -:: Epoch[0146]-Train_Loss: 0.1674
+2022/06/19 23:33:34 - INFO -:: Epoch[0147]-Train_Loss: 0.1828
+2022/06/19 23:35:32 - INFO -:: Epoch[0148]-Train_Loss: 0.2014
+2022/06/19 23:37:32 - INFO -:: Epoch[0149]-Train_Loss: 0.1809
+2022/06/19 23:44:17 - INFO -:: Eval:: dice_score: 0.77357 hausdorff_score: 0.93638 all_score: 0.87126
+2022/06/19 23:46:15 - INFO -:: Epoch[0150]-Train_Loss: 0.1844
+2022/06/19 23:48:13 - INFO -:: Epoch[0151]-Train_Loss: 0.1685
+2022/06/19 23:50:12 - INFO -:: Epoch[0152]-Train_Loss: 0.1725
+2022/06/19 23:52:13 - INFO -:: Epoch[0153]-Train_Loss: 0.1655
+2022/06/19 23:54:11 - INFO -:: Epoch[0154]-Train_Loss: 0.1652
+2022/06/20 00:01:11 - INFO -:: Eval:: dice_score: 0.78811 hausdorff_score: 0.93119 all_score: 0.87396
+2022/06/20 00:01:19 - INFO -:: Find better metric: val_metric 0.87307 -> 0.87396 💯🆕 in epoch[154] !!!
+2022/06/20 00:03:10 - INFO -:: Epoch[0155]-Train_Loss: 0.1670
+2022/06/20 00:05:08 - INFO -:: Epoch[0156]-Train_Loss: 0.1633
+2022/06/20 00:07:07 - INFO -:: Epoch[0157]-Train_Loss: 0.1711
+2022/06/20 00:09:03 - INFO -:: Epoch[0158]-Train_Loss: 0.1561
+2022/06/20 00:11:02 - INFO -:: Epoch[0159]-Train_Loss: 0.1682
+2022/06/20 00:16:58 - INFO -:: Eval:: dice_score: 0.77113 hausdorff_score: 0.95121 all_score: 0.87918
+2022/06/20 00:17:06 - INFO -:: Find better metric: val_metric 0.87396 -> 0.87918 💯🆕 in epoch[159] !!!
+2022/06/20 00:18:59 - INFO -:: Epoch[0160]-Train_Loss: 0.1588
+2022/06/20 00:20:57 - INFO -:: Epoch[0161]-Train_Loss: 0.1662
+2022/06/20 00:22:55 - INFO -:: Epoch[0162]-Train_Loss: 0.1598
+2022/06/20 00:24:56 - INFO -:: Epoch[0163]-Train_Loss: 0.1667
+2022/06/20 00:26:55 - INFO -:: Epoch[0164]-Train_Loss: 0.1611
+2022/06/20 00:34:54 - INFO -:: Eval:: dice_score: 0.7807 hausdorff_score: 0.9491 all_score: 0.88174
+2022/06/20 00:35:02 - INFO -:: Find better metric: val_metric 0.87918 -> 0.88174 💯🆕 in epoch[164] !!!
+2022/06/20 00:36:54 - INFO -:: Epoch[0165]-Train_Loss: 0.1554
+2022/06/20 00:38:55 - INFO -:: Epoch[0166]-Train_Loss: 0.1609
+2022/06/20 00:40:55 - INFO -:: Epoch[0167]-Train_Loss: 0.1634
+2022/06/20 00:42:58 - INFO -:: Epoch[0168]-Train_Loss: 0.1582
+2022/06/20 00:44:56 - INFO -:: Epoch[0169]-Train_Loss: 0.1551
+2022/06/20 00:51:40 - INFO -:: Eval:: dice_score: 0.78987 hausdorff_score: 0.94963 all_score: 0.88572
+2022/06/20 00:51:47 - INFO -:: Find better metric: val_metric 0.88174 -> 0.88572 💯🆕 in epoch[169] !!!
+2022/06/20 00:53:41 - INFO -:: Epoch[0170]-Train_Loss: 0.1563
+2022/06/20 00:55:41 - INFO -:: Epoch[0171]-Train_Loss: 0.1523
+2022/06/20 00:57:39 - INFO -:: Epoch[0172]-Train_Loss: 0.1508
+2022/06/20 00:59:37 - INFO -:: Epoch[0173]-Train_Loss: 0.1605
+2022/06/20 01:01:39 - INFO -:: Epoch[0174]-Train_Loss: 0.1621
+2022/06/20 01:08:10 - INFO -:: Eval:: dice_score: 0.77444 hausdorff_score: 0.95063 all_score: 0.88016
+2022/06/20 01:10:08 - INFO -:: Epoch[0175]-Train_Loss: 0.1562
+2022/06/20 01:12:06 - INFO -:: Epoch[0176]-Train_Loss: 0.1597
+2022/06/20 01:14:04 - INFO -:: Epoch[0177]-Train_Loss: 0.1531
+2022/06/20 01:16:04 - INFO -:: Epoch[0178]-Train_Loss: 0.1514
+2022/06/20 01:18:03 - INFO -:: Epoch[0179]-Train_Loss: 0.1503
+2022/06/20 01:24:01 - INFO -:: Eval:: dice_score: 0.78181 hausdorff_score: 0.95307 all_score: 0.88457
+2022/06/20 01:25:58 - INFO -:: Epoch[0180]-Train_Loss: 0.1478
+2022/06/20 01:27:56 - INFO -:: Epoch[0181]-Train_Loss: 0.1562
+2022/06/20 01:29:56 - INFO -:: Epoch[0182]-Train_Loss: 0.1478
+2022/06/20 01:31:55 - INFO -:: Epoch[0183]-Train_Loss: 0.1528
+2022/06/20 01:33:54 - INFO -:: Epoch[0184]-Train_Loss: 0.1514
+2022/06/20 01:40:59 - INFO -:: Eval:: dice_score: 0.78177 hausdorff_score: 0.95406 all_score: 0.88514
+2022/06/20 01:42:58 - INFO -:: Epoch[0185]-Train_Loss: 0.1488
+2022/06/20 01:44:56 - INFO -:: Epoch[0186]-Train_Loss: 0.1531
+2022/06/20 01:46:52 - INFO -:: Epoch[0187]-Train_Loss: 0.1455
+2022/06/20 01:48:50 - INFO -:: Epoch[0188]-Train_Loss: 0.1508
+2022/06/20 01:50:48 - INFO -:: Epoch[0189]-Train_Loss: 0.1485
+2022/06/20 01:57:44 - INFO -:: Eval:: dice_score: 0.78165 hausdorff_score: 0.95341 all_score: 0.8847
+2022/06/20 01:59:42 - INFO -:: Epoch[0190]-Train_Loss: 0.1501
+2022/06/20 02:01:42 - INFO -:: Epoch[0191]-Train_Loss: 0.1567
+2022/06/20 02:03:39 - INFO -:: Epoch[0192]-Train_Loss: 0.1454
+2022/06/20 02:05:38 - INFO -:: Epoch[0193]-Train_Loss: 0.1480
+2022/06/20 02:07:39 - INFO -:: Epoch[0194]-Train_Loss: 0.1444
+2022/06/20 02:14:18 - INFO -:: Eval:: dice_score: 0.78524 hausdorff_score: 0.95235 all_score: 0.88551
+2022/06/20 02:16:18 - INFO -:: Epoch[0195]-Train_Loss: 0.1456
+2022/06/20 02:18:16 - INFO -:: Epoch[0196]-Train_Loss: 0.1534
+2022/06/20 02:20:13 - INFO -:: Epoch[0197]-Train_Loss: 0.1472
+2022/06/20 02:22:11 - INFO -:: Epoch[0198]-Train_Loss: 0.1851
+2022/06/20 02:24:11 - INFO -:: Epoch[0199]-Train_Loss: 0.2102
+2022/06/20 02:30:42 - INFO -:: Eval:: dice_score: 0.73931 hausdorff_score: 0.92438 all_score: 0.85035
+2022/06/20 02:32:39 - INFO -:: Epoch[0200]-Train_Loss: 0.1865
+2022/06/20 02:34:38 - INFO -:: Epoch[0201]-Train_Loss: 0.1912
+2022/06/20 02:36:38 - INFO -:: Epoch[0202]-Train_Loss: 0.1772
+2022/06/20 02:38:36 - INFO -:: Epoch[0203]-Train_Loss: 0.1857
+2022/06/20 02:40:37 - INFO -:: Epoch[0204]-Train_Loss: 0.1946
+2022/06/20 02:47:34 - INFO -:: Eval:: dice_score: 0.75332 hausdorff_score: 0.91539 all_score: 0.85056
+2022/06/20 02:49:37 - INFO -:: Epoch[0205]-Train_Loss: 0.1868
+2022/06/20 02:51:32 - INFO -:: Epoch[0206]-Train_Loss: 0.1718
+2022/06/20 02:53:29 - INFO -:: Epoch[0207]-Train_Loss: 0.1754
+2022/06/20 02:55:28 - INFO -:: Epoch[0208]-Train_Loss: 0.1854
+2022/06/20 02:57:28 - INFO -:: Epoch[0209]-Train_Loss: 0.1713
+2022/06/20 03:04:44 - INFO -:: Eval:: dice_score: 0.77491 hausdorff_score: 0.9446 all_score: 0.87672
+2022/06/20 03:06:42 - INFO -:: Epoch[0210]-Train_Loss: 0.1720
+2022/06/20 03:08:43 - INFO -:: Epoch[0211]-Train_Loss: 0.1926
+2022/06/20 03:10:44 - INFO -:: Epoch[0212]-Train_Loss: 0.1824
+2022/06/20 03:12:44 - INFO -:: Epoch[0213]-Train_Loss: 0.1787
+2022/06/20 03:14:44 - INFO -:: Epoch[0214]-Train_Loss: 0.1732
+2022/06/20 03:21:43 - INFO -:: Eval:: dice_score: 0.76939 hausdorff_score: 0.9514 all_score: 0.8786
+2022/06/20 03:23:43 - INFO -:: Epoch[0215]-Train_Loss: 0.1639
+2022/06/20 03:25:39 - INFO -:: Epoch[0216]-Train_Loss: 0.1658
+2022/06/20 03:27:35 - INFO -:: Epoch[0217]-Train_Loss: 0.1611
+2022/06/20 03:29:34 - INFO -:: Epoch[0218]-Train_Loss: 0.1550
+2022/06/20 03:31:31 - INFO -:: Epoch[0219]-Train_Loss: 0.1627
+2022/06/20 03:39:50 - INFO -:: Eval:: dice_score: 0.75052 hausdorff_score: 0.95006 all_score: 0.87025
+2022/06/20 03:41:52 - INFO -:: Epoch[0220]-Train_Loss: 0.1743
+2022/06/20 03:43:52 - INFO -:: Epoch[0221]-Train_Loss: 0.1934
+2022/06/20 03:45:50 - INFO -:: Epoch[0222]-Train_Loss: 0.1798
+2022/06/20 03:47:52 - INFO -:: Epoch[0223]-Train_Loss: 0.1730
+2022/06/20 03:49:51 - INFO -:: Epoch[0224]-Train_Loss: 0.1719
+2022/06/20 03:56:39 - INFO -:: Eval:: dice_score: 0.78743 hausdorff_score: 0.93842 all_score: 0.87803
+2022/06/20 03:58:33 - INFO -:: Epoch[0225]-Train_Loss: 0.1506
+2022/06/20 04:00:32 - INFO -:: Epoch[0226]-Train_Loss: 0.1585
+2022/06/20 04:02:32 - INFO -:: Epoch[0227]-Train_Loss: 0.1570
+2022/06/20 04:04:34 - INFO -:: Epoch[0228]-Train_Loss: 0.1620
+2022/06/20 04:06:33 - INFO -:: Epoch[0229]-Train_Loss: 0.1555
+2022/06/20 04:13:43 - INFO -:: Eval:: dice_score: 0.76913 hausdorff_score: 0.94922 all_score: 0.87718
+2022/06/20 04:15:41 - INFO -:: Epoch[0230]-Train_Loss: 0.1554
+2022/06/20 04:17:40 - INFO -:: Epoch[0231]-Train_Loss: 0.1566
+2022/06/20 04:19:37 - INFO -:: Epoch[0232]-Train_Loss: 0.1591
+2022/06/20 04:21:35 - INFO -:: Epoch[0233]-Train_Loss: 0.1521
+2022/06/20 04:23:36 - INFO -:: Epoch[0234]-Train_Loss: 0.1533
+2022/06/20 04:30:53 - INFO -:: Eval:: dice_score: 0.78738 hausdorff_score: 0.94379 all_score: 0.88122
+2022/06/20 04:32:50 - INFO -:: Epoch[0235]-Train_Loss: 0.1558
+2022/06/20 04:34:50 - INFO -:: Epoch[0236]-Train_Loss: 0.1447
+2022/06/20 04:36:48 - INFO -:: Epoch[0237]-Train_Loss: 0.1483
+2022/06/20 04:38:49 - INFO -:: Epoch[0238]-Train_Loss: 0.1521
+2022/06/20 04:40:50 - INFO -:: Epoch[0239]-Train_Loss: 0.1504
+2022/06/20 04:47:50 - INFO -:: Eval:: dice_score: 0.79463 hausdorff_score: 0.94294 all_score: 0.88362
+2022/06/20 04:49:51 - INFO -:: Epoch[0240]-Train_Loss: 0.1506
+2022/06/20 04:51:50 - INFO -:: Epoch[0241]-Train_Loss: 0.1508
+2022/06/20 04:53:49 - INFO -:: Epoch[0242]-Train_Loss: 0.1510
+2022/06/20 04:55:49 - INFO -:: Epoch[0243]-Train_Loss: 0.1373
+2022/06/20 04:57:46 - INFO -:: Epoch[0244]-Train_Loss: 0.1484
+2022/06/20 05:03:26 - INFO -:: Eval:: dice_score: 0.7911 hausdorff_score: 0.94836 all_score: 0.88546
+2022/06/20 05:05:26 - INFO -:: Epoch[0245]-Train_Loss: 0.1445
+2022/06/20 05:07:25 - INFO -:: Epoch[0246]-Train_Loss: 0.1538
+2022/06/20 05:09:27 - INFO -:: Epoch[0247]-Train_Loss: 0.1486
+2022/06/20 05:11:26 - INFO -:: Epoch[0248]-Train_Loss: 0.1563
+2022/06/20 05:13:26 - INFO -:: Epoch[0249]-Train_Loss: 0.1466
+2022/06/20 05:20:53 - INFO -:: Eval:: dice_score: 0.8033 hausdorff_score: 0.94648 all_score: 0.88921
+2022/06/20 05:21:00 - INFO -:: Find better metric: val_metric 0.88572 -> 0.88921 💯🆕 in epoch[249] !!!
+2022/06/20 05:22:57 - INFO -:: Epoch[0250]-Train_Loss: 0.1441
+2022/06/20 05:24:56 - INFO -:: Epoch[0251]-Train_Loss: 0.1475
+2022/06/20 05:26:53 - INFO -:: Epoch[0252]-Train_Loss: 0.1410
+2022/06/20 05:28:51 - INFO -:: Epoch[0253]-Train_Loss: 0.1376
+2022/06/20 05:30:47 - INFO -:: Epoch[0254]-Train_Loss: 0.1268
+2022/06/20 05:38:14 - INFO -:: Eval:: dice_score: 0.79539 hausdorff_score: 0.94873 all_score: 0.88739
+2022/06/20 05:40:11 - INFO -:: Epoch[0255]-Train_Loss: 0.1347
+2022/06/20 05:42:13 - INFO -:: Epoch[0256]-Train_Loss: 0.1417
+2022/06/20 05:44:11 - INFO -:: Epoch[0257]-Train_Loss: 0.1351
+2022/06/20 05:46:10 - INFO -:: Epoch[0258]-Train_Loss: 0.1326
+2022/06/20 05:48:10 - INFO -:: Epoch[0259]-Train_Loss: 0.1305
+2022/06/20 05:55:42 - INFO -:: Eval:: dice_score: 0.79488 hausdorff_score: 0.95197 all_score: 0.88914
+2022/06/20 05:57:42 - INFO -:: Epoch[0260]-Train_Loss: 0.1357
+2022/06/20 05:59:39 - INFO -:: Epoch[0261]-Train_Loss: 0.1376
+2022/06/20 06:01:38 - INFO -:: Epoch[0262]-Train_Loss: 0.1289
+2022/06/20 06:03:36 - INFO -:: Epoch[0263]-Train_Loss: 0.1398
+2022/06/20 06:05:36 - INFO -:: Epoch[0264]-Train_Loss: 0.1340
+2022/06/20 06:11:51 - INFO -:: Eval:: dice_score: 0.79444 hausdorff_score: 0.95478 all_score: 0.89064
+2022/06/20 06:11:58 - INFO -:: Find better metric: val_metric 0.88921 -> 0.89064 💯🆕 in epoch[264] !!!
+2022/06/20 06:13:49 - INFO -:: Epoch[0265]-Train_Loss: 0.1255
+2022/06/20 06:15:46 - INFO -:: Epoch[0266]-Train_Loss: 0.1338
+2022/06/20 06:17:48 - INFO -:: Epoch[0267]-Train_Loss: 0.1342
+2022/06/20 06:19:46 - INFO -:: Epoch[0268]-Train_Loss: 0.1373
+2022/06/20 06:21:44 - INFO -:: Epoch[0269]-Train_Loss: 0.1306
+2022/06/20 06:29:17 - INFO -:: Eval:: dice_score: 0.7915 hausdorff_score: 0.95718 all_score: 0.89091
+2022/06/20 06:29:24 - INFO -:: Find better metric: val_metric 0.89064 -> 0.89091 💯🆕 in epoch[269] !!!
+2022/06/20 06:31:17 - INFO -:: Epoch[0270]-Train_Loss: 0.1340
+2022/06/20 06:33:13 - INFO -:: Epoch[0271]-Train_Loss: 0.1265
+2022/06/20 06:35:11 - INFO -:: Epoch[0272]-Train_Loss: 0.1386
+2022/06/20 06:37:10 - INFO -:: Epoch[0273]-Train_Loss: 0.1259
+2022/06/20 06:39:10 - INFO -:: Epoch[0274]-Train_Loss: 0.1292
+2022/06/20 06:45:37 - INFO -:: Eval:: dice_score: 0.79151 hausdorff_score: 0.95655 all_score: 0.89054
+2022/06/20 06:47:32 - INFO -:: Epoch[0275]-Train_Loss: 0.1370
+2022/06/20 06:49:31 - INFO -:: Epoch[0276]-Train_Loss: 0.1294
+2022/06/20 06:51:28 - INFO -:: Epoch[0277]-Train_Loss: 0.1272
+2022/06/20 06:53:28 - INFO -:: Epoch[0278]-Train_Loss: 0.1258
+2022/06/20 06:55:26 - INFO -:: Epoch[0279]-Train_Loss: 0.1322
+2022/06/20 07:02:43 - INFO -:: Eval:: dice_score: 0.79296 hausdorff_score: 0.95817 all_score: 0.89209
+2022/06/20 07:02:50 - INFO -:: Find better metric: val_metric 0.89091 -> 0.89209 💯🆕 in epoch[279] !!!
+2022/06/20 07:04:45 - INFO -:: Epoch[0280]-Train_Loss: 0.1268
+2022/06/20 07:06:46 - INFO -:: Epoch[0281]-Train_Loss: 0.1298
+2022/06/20 07:08:44 - INFO -:: Epoch[0282]-Train_Loss: 0.1276
+2022/06/20 07:10:41 - INFO -:: Epoch[0283]-Train_Loss: 0.1314
+2022/06/20 07:12:42 - INFO -:: Epoch[0284]-Train_Loss: 0.1292
+2022/06/20 07:20:37 - INFO -:: Eval:: dice_score: 0.79634 hausdorff_score: 0.9562 all_score: 0.89226
+2022/06/20 07:20:44 - INFO -:: Find better metric: val_metric 0.89209 -> 0.89226 💯🆕 in epoch[284] !!!
+2022/06/20 07:22:35 - INFO -:: Epoch[0285]-Train_Loss: 0.1284
+2022/06/20 07:24:31 - INFO -:: Epoch[0286]-Train_Loss: 0.1331
+2022/06/20 07:26:33 - INFO -:: Epoch[0287]-Train_Loss: 0.1277
+2022/06/20 07:28:32 - INFO -:: Epoch[0288]-Train_Loss: 0.1271
+2022/06/20 07:30:30 - INFO -:: Epoch[0289]-Train_Loss: 0.1238
+2022/06/20 07:36:27 - INFO -:: Eval:: dice_score: 0.79865 hausdorff_score: 0.95639 all_score: 0.89329
+2022/06/20 07:36:34 - INFO -:: Find better metric: val_metric 0.89226 -> 0.89329 💯🆕 in epoch[289] !!!
+2022/06/20 07:38:26 - INFO -:: Epoch[0290]-Train_Loss: 0.1234
+2022/06/20 07:40:25 - INFO -:: Epoch[0291]-Train_Loss: 0.1297
+2022/06/20 07:42:26 - INFO -:: Epoch[0292]-Train_Loss: 0.1264
+2022/06/20 07:44:24 - INFO -:: Epoch[0293]-Train_Loss: 0.1246
+2022/06/20 07:46:24 - INFO -:: Epoch[0294]-Train_Loss: 0.1239
+2022/06/20 07:53:29 - INFO -:: Eval:: dice_score: 0.79613 hausdorff_score: 0.95588 all_score: 0.89198
+2022/06/20 07:55:28 - INFO -:: Epoch[0295]-Train_Loss: 0.1284
+2022/06/20 07:57:24 - INFO -:: Epoch[0296]-Train_Loss: 0.1238
+2022/06/20 07:59:27 - INFO -:: Epoch[0297]-Train_Loss: 0.1412
+2022/06/20 08:01:24 - INFO -:: Epoch[0298]-Train_Loss: 0.1978
+2022/06/20 08:03:21 - INFO -:: Epoch[0299]-Train_Loss: 0.1947
+2022/06/20 08:10:17 - INFO -:: Eval:: dice_score: 0.75048 hausdorff_score: 0.92089 all_score: 0.85272
+2022/06/20 08:12:14 - INFO -:: Epoch[0300]-Train_Loss: 0.1746
+2022/06/20 08:14:16 - INFO -:: Epoch[0301]-Train_Loss: 0.1646
+2022/06/20 08:16:15 - INFO -:: Epoch[0302]-Train_Loss: 0.1666
+2022/06/20 08:18:12 - INFO -:: Epoch[0303]-Train_Loss: 0.1691
+2022/06/20 08:20:09 - INFO -:: Epoch[0304]-Train_Loss: 0.1586
+2022/06/20 08:27:30 - INFO -:: Eval:: dice_score: 0.767 hausdorff_score: 0.93473 all_score: 0.86764
+2022/06/20 08:29:29 - INFO -:: Epoch[0305]-Train_Loss: 0.1582
+2022/06/20 08:31:27 - INFO -:: Epoch[0306]-Train_Loss: 0.1532
+2022/06/20 08:33:24 - INFO -:: Epoch[0307]-Train_Loss: 0.1570
+2022/06/20 08:35:22 - INFO -:: Epoch[0308]-Train_Loss: 0.1561
+2022/06/20 08:37:22 - INFO -:: Epoch[0309]-Train_Loss: 0.1511
+2022/06/20 08:44:03 - INFO -:: Eval:: dice_score: 0.77434 hausdorff_score: 0.94685 all_score: 0.87785
+2022/06/20 08:45:59 - INFO -:: Epoch[0310]-Train_Loss: 0.1479
+2022/06/20 08:47:57 - INFO -:: Epoch[0311]-Train_Loss: 0.1431
+2022/06/20 08:49:57 - INFO -:: Epoch[0312]-Train_Loss: 0.1537
+2022/06/20 08:51:56 - INFO -:: Epoch[0313]-Train_Loss: 0.1427
+2022/06/20 08:53:55 - INFO -:: Epoch[0314]-Train_Loss: 0.1452
+2022/06/20 09:01:09 - INFO -:: Eval:: dice_score: 0.77193 hausdorff_score: 0.9478 all_score: 0.87745
+2022/06/20 09:03:05 - INFO -:: Epoch[0315]-Train_Loss: 0.1528
+2022/06/20 09:05:03 - INFO -:: Epoch[0316]-Train_Loss: 0.1484
+2022/06/20 09:07:03 - INFO -:: Epoch[0317]-Train_Loss: 0.1468
+2022/06/20 09:09:01 - INFO -:: Epoch[0318]-Train_Loss: 0.1403
+2022/06/20 09:11:00 - INFO -:: Epoch[0319]-Train_Loss: 0.1479
+2022/06/20 09:19:01 - INFO -:: Eval:: dice_score: 0.79265 hausdorff_score: 0.95078 all_score: 0.88753
+2022/06/20 09:21:00 - INFO -:: Epoch[0320]-Train_Loss: 0.1485
+2022/06/20 09:22:55 - INFO -:: Epoch[0321]-Train_Loss: 0.1533
+2022/06/20 09:24:54 - INFO -:: Epoch[0322]-Train_Loss: 0.1403
+2022/06/20 09:26:52 - INFO -:: Epoch[0323]-Train_Loss: 0.1490
+2022/06/20 09:28:53 - INFO -:: Epoch[0324]-Train_Loss: 0.1370
+2022/06/20 09:35:24 - INFO -:: Eval:: dice_score: 0.78426 hausdorff_score: 0.95852 all_score: 0.88882
+2022/06/20 09:37:23 - INFO -:: Epoch[0325]-Train_Loss: 0.1450
+2022/06/20 09:39:24 - INFO -:: Epoch[0326]-Train_Loss: 0.1305
+2022/06/20 09:41:24 - INFO -:: Epoch[0327]-Train_Loss: 0.1379
+2022/06/20 09:43:23 - INFO -:: Epoch[0328]-Train_Loss: 0.1432
+2022/06/20 09:45:21 - INFO -:: Epoch[0329]-Train_Loss: 0.1616
+2022/06/20 09:52:47 - INFO -:: Eval:: dice_score: 0.78356 hausdorff_score: 0.94508 all_score: 0.88047
+2022/06/20 09:54:47 - INFO -:: Epoch[0330]-Train_Loss: 0.1369
+2022/06/20 09:56:44 - INFO -:: Epoch[0331]-Train_Loss: 0.1500
+2022/06/20 09:58:43 - INFO -:: Epoch[0332]-Train_Loss: 0.1355
+2022/06/20 10:00:41 - INFO -:: Epoch[0333]-Train_Loss: 0.1446
+2022/06/20 10:02:41 - INFO -:: Epoch[0334]-Train_Loss: 0.1378
+2022/06/20 10:09:50 - INFO -:: Eval:: dice_score: 0.79372 hausdorff_score: 0.93986 all_score: 0.88141
+2022/06/20 10:11:47 - INFO -:: Epoch[0335]-Train_Loss: 0.1456
+2022/06/20 10:13:45 - INFO -:: Epoch[0336]-Train_Loss: 0.1367
+2022/06/20 10:15:47 - INFO -:: Epoch[0337]-Train_Loss: 0.1349
+2022/06/20 10:17:49 - INFO -:: Epoch[0338]-Train_Loss: 0.1389
+2022/06/20 10:19:45 - INFO -:: Epoch[0339]-Train_Loss: 0.1350
+2022/06/20 10:26:47 - INFO -:: Eval:: dice_score: 0.80051 hausdorff_score: 0.95044 all_score: 0.89047
+2022/06/20 10:28:44 - INFO -:: Epoch[0340]-Train_Loss: 0.1354
+2022/06/20 10:30:42 - INFO -:: Epoch[0341]-Train_Loss: 0.1359
+2022/06/20 10:32:41 - INFO -:: Epoch[0342]-Train_Loss: 0.1356
+2022/06/20 10:34:41 - INFO -:: Epoch[0343]-Train_Loss: 0.1366
+2022/06/20 10:36:42 - INFO -:: Epoch[0344]-Train_Loss: 0.1254
+2022/06/20 10:44:00 - INFO -:: Eval:: dice_score: 0.79471 hausdorff_score: 0.95305 all_score: 0.88971
+2022/06/20 10:45:59 - INFO -:: Epoch[0345]-Train_Loss: 0.1270
+2022/06/20 10:47:56 - INFO -:: Epoch[0346]-Train_Loss: 0.1308
+2022/06/20 10:49:55 - INFO -:: Epoch[0347]-Train_Loss: 0.1288
+2022/06/20 10:51:53 - INFO -:: Epoch[0348]-Train_Loss: 0.1323
+2022/06/20 10:53:52 - INFO -:: Epoch[0349]-Train_Loss: 0.1313
+2022/06/20 11:01:03 - INFO -:: Eval:: dice_score: 0.7922 hausdorff_score: 0.95696 all_score: 0.89106
+2022/06/20 11:03:04 - INFO -:: Epoch[0350]-Train_Loss: 0.1304
+2022/06/20 11:05:04 - INFO -:: Epoch[0351]-Train_Loss: 0.1275
+2022/06/20 11:07:05 - INFO -:: Epoch[0352]-Train_Loss: 0.1239
+2022/06/20 11:09:02 - INFO -:: Epoch[0353]-Train_Loss: 0.1244
+2022/06/20 11:10:58 - INFO -:: Epoch[0354]-Train_Loss: 0.1257
+2022/06/20 11:18:42 - INFO -:: Eval:: dice_score: 0.80068 hausdorff_score: 0.95514 all_score: 0.89336
+2022/06/20 11:18:49 - INFO -:: Find better metric: val_metric 0.89329 -> 0.89336 💯🆕 in epoch[354] !!!
+2022/06/20 11:20:45 - INFO -:: Epoch[0355]-Train_Loss: 0.1276
+2022/06/20 11:22:46 - INFO -:: Epoch[0356]-Train_Loss: 0.1262
+2022/06/20 11:24:44 - INFO -:: Epoch[0357]-Train_Loss: 0.1229
+2022/06/20 11:26:43 - INFO -:: Epoch[0358]-Train_Loss: 0.1296
+2022/06/20 11:28:40 - INFO -:: Epoch[0359]-Train_Loss: 0.1228
+2022/06/20 11:35:31 - INFO -:: Eval:: dice_score: 0.80282 hausdorff_score: 0.94903 all_score: 0.89055
+2022/06/20 11:37:33 - INFO -:: Epoch[0360]-Train_Loss: 0.1276
+2022/06/20 11:39:37 - INFO -:: Epoch[0361]-Train_Loss: 0.1230
+2022/06/20 11:41:33 - INFO -:: Epoch[0362]-Train_Loss: 0.1328
+2022/06/20 11:43:32 - INFO -:: Epoch[0363]-Train_Loss: 0.1201
+2022/06/20 11:45:32 - INFO -:: Epoch[0364]-Train_Loss: 0.1249
+2022/06/20 11:52:23 - INFO -:: Eval:: dice_score: 0.7954 hausdorff_score: 0.95686 all_score: 0.89227
+2022/06/20 11:54:24 - INFO -:: Epoch[0365]-Train_Loss: 0.1288
+2022/06/20 11:56:22 - INFO -:: Epoch[0366]-Train_Loss: 0.1220
+2022/06/20 11:58:22 - INFO -:: Epoch[0367]-Train_Loss: 0.1290
+2022/06/20 12:00:22 - INFO -:: Epoch[0368]-Train_Loss: 0.1140
+2022/06/20 12:02:23 - INFO -:: Epoch[0369]-Train_Loss: 0.1257
+2022/06/20 12:11:02 - INFO -:: Eval:: dice_score: 0.79593 hausdorff_score: 0.95717 all_score: 0.89267
+2022/06/20 12:13:01 - INFO -:: Epoch[0370]-Train_Loss: 0.1199
+2022/06/20 12:14:56 - INFO -:: Epoch[0371]-Train_Loss: 0.1198
+2022/06/20 12:16:52 - INFO -:: Epoch[0372]-Train_Loss: 0.1239
+2022/06/20 12:18:51 - INFO -:: Epoch[0373]-Train_Loss: 0.1226
+2022/06/20 12:20:52 - INFO -:: Epoch[0374]-Train_Loss: 0.1198
+2022/06/20 12:28:48 - INFO -:: Eval:: dice_score: 0.80046 hausdorff_score: 0.95574 all_score: 0.89363
+2022/06/20 12:28:55 - INFO -:: Find better metric: val_metric 0.89336 -> 0.89363 💯🆕 in epoch[374] !!!
+2022/06/20 12:30:50 - INFO -:: Epoch[0375]-Train_Loss: 0.1189
+2022/06/20 12:32:53 - INFO -:: Epoch[0376]-Train_Loss: 0.1256
+2022/06/20 12:34:51 - INFO -:: Epoch[0377]-Train_Loss: 0.1179
+2022/06/20 12:36:49 - INFO -:: Epoch[0378]-Train_Loss: 0.1183
+2022/06/20 12:38:46 - INFO -:: Epoch[0379]-Train_Loss: 0.1234
+2022/06/20 12:45:56 - INFO -:: Eval:: dice_score: 0.80028 hausdorff_score: 0.95533 all_score: 0.89331
+2022/06/20 12:47:51 - INFO -:: Epoch[0380]-Train_Loss: 0.1115
+2022/06/20 12:49:51 - INFO -:: Epoch[0381]-Train_Loss: 0.1219
+2022/06/20 12:51:51 - INFO -:: Epoch[0382]-Train_Loss: 0.1176
+2022/06/20 12:53:51 - INFO -:: Epoch[0383]-Train_Loss: 0.1184
+2022/06/20 12:55:53 - INFO -:: Epoch[0384]-Train_Loss: 0.1146
+2022/06/20 13:02:55 - INFO -:: Eval:: dice_score: 0.80492 hausdorff_score: 0.95366 all_score: 0.89417
+2022/06/20 13:03:02 - INFO -:: Find better metric: val_metric 0.89363 -> 0.89417 💯🆕 in epoch[384] !!!
+2022/06/20 13:04:52 - INFO -:: Epoch[0385]-Train_Loss: 0.1134
+2022/06/20 13:06:51 - INFO -:: Epoch[0386]-Train_Loss: 0.1214
+2022/06/20 13:08:46 - INFO -:: Epoch[0387]-Train_Loss: 0.1179
+2022/06/20 13:10:41 - INFO -:: Epoch[0388]-Train_Loss: 0.1205
+2022/06/20 13:12:40 - INFO -:: Epoch[0389]-Train_Loss: 0.1188
+2022/06/20 13:19:30 - INFO -:: Eval:: dice_score: 0.79854 hausdorff_score: 0.95546 all_score: 0.89269
+2022/06/20 13:21:30 - INFO -:: Epoch[0390]-Train_Loss: 0.1210
+2022/06/20 13:23:27 - INFO -:: Epoch[0391]-Train_Loss: 0.1120
+2022/06/20 13:25:23 - INFO -:: Epoch[0392]-Train_Loss: 0.1243
+2022/06/20 13:27:19 - INFO -:: Epoch[0393]-Train_Loss: 0.1157
+2022/06/20 13:29:16 - INFO -:: Epoch[0394]-Train_Loss: 0.1167
+2022/06/20 13:37:30 - INFO -:: Eval:: dice_score: 0.80313 hausdorff_score: 0.95426 all_score: 0.89381
+2022/06/20 13:42:50 - INFO -:: logger started. 💭UWMGI-Monai:: 🔴🟡🟢
+2022/06/20 13:43:00 - INFO -:: Fold==0, Weights==best_weights, Resume=True__395
+2022/06/20 13:47:17 - INFO -:: logger started. 💭UWMGI-Monai:: 🔴🟡🟢
+2022/06/20 13:47:22 - INFO -:: Fold==0, Weights==best_weights, Resume=True__395
+2022/06/20 13:50:14 - INFO -:: logger started. 💭UWMGI-Monai:: 🔴🟡🟢
+2022/06/20 13:54:57 - INFO -:: logger started. 💭UWMGI-Monai:: 🔴🟡🟢
+2022/06/20 13:55:02 - INFO -:: Fold==0, Weights==best_weights, Resume=True__395
+2022/06/20 13:56:37 - INFO -:: logger started. 💭UWMGI-Monai:: 🔴🟡🟢
+2022/06/20 13:56:42 - INFO -:: Fold==0, Weights==best_weights.pth, Resume=True__395
+2022/06/20 13:57:23 - INFO -:: weights from: best_weights.pth are loaded.
+2022/06/20 13:59:34 - INFO -:: Eval:: dice_score: 0.79105 hausdorff_score: 0.95252 all_score: 0.88793
+2022/06/20 13:59:34 - INFO -:: Resuming the previous action from epoch:395
+2022/06/20 14:02:00 - INFO -:: Epoch[0395]-Train_Loss: 0.1312
+2022/06/20 14:04:01 - INFO -:: Epoch[0396]-Train_Loss: 0.1281
+2022/06/20 14:05:57 - INFO -:: Epoch[0397]-Train_Loss: 0.1339
+2022/06/20 14:07:52 - INFO -:: Epoch[0398]-Train_Loss: 0.1467
+2022/06/20 14:09:53 - INFO -:: Epoch[0399]-Train_Loss: 0.1361
+2022/06/20 14:12:13 - INFO -:: Eval:: dice_score: 0.78737 hausdorff_score: 0.93602 all_score: 0.87656
+2022/06/20 14:14:16 - INFO -:: Epoch[0400]-Train_Loss: 0.1361
+2022/06/20 14:16:14 - INFO -:: Epoch[0401]-Train_Loss: 0.1455
+2022/06/20 14:18:12 - INFO -:: Epoch[0402]-Train_Loss: 0.1418
+2022/06/20 14:20:09 - INFO -:: Epoch[0403]-Train_Loss: 0.1490
+2022/06/20 14:22:06 - INFO -:: Epoch[0404]-Train_Loss: 0.1389
+2022/06/20 14:24:25 - INFO -:: Eval:: dice_score: 0.78769 hausdorff_score: 0.93927 all_score: 0.87864
+2022/06/20 14:26:22 - INFO -:: Epoch[0405]-Train_Loss: 0.1416
+2022/06/20 14:28:21 - INFO -:: Epoch[0406]-Train_Loss: 0.1345
+2022/06/20 14:30:17 - INFO -:: Epoch[0407]-Train_Loss: 0.1538
+2022/06/20 14:32:12 - INFO -:: Epoch[0408]-Train_Loss: 0.1331
+2022/06/20 14:34:10 - INFO -:: Epoch[0409]-Train_Loss: 0.1337
+2022/06/20 14:36:28 - INFO -:: Eval:: dice_score: 0.76062 hausdorff_score: 0.95682 all_score: 0.87834
+2022/06/20 14:38:29 - INFO -:: Epoch[0410]-Train_Loss: 0.1315
+2022/06/20 14:40:24 - INFO -:: Epoch[0411]-Train_Loss: 0.1359
+2022/06/20 14:42:22 - INFO -:: Epoch[0412]-Train_Loss: 0.1313
+2022/06/20 14:44:23 - INFO -:: Epoch[0413]-Train_Loss: 0.1292
+2022/06/20 14:46:21 - INFO -:: Epoch[0414]-Train_Loss: 0.1251
+2022/06/20 14:48:42 - INFO -:: Eval:: dice_score: 0.78365 hausdorff_score: 0.95299 all_score: 0.88525
+2022/06/20 14:50:39 - INFO -:: Epoch[0415]-Train_Loss: 0.1246
+2022/06/20 14:52:36 - INFO -:: Epoch[0416]-Train_Loss: 0.1232
+2022/06/20 14:54:33 - INFO -:: Epoch[0417]-Train_Loss: 0.1387
+2022/06/20 14:56:36 - INFO -:: Epoch[0418]-Train_Loss: 0.1356
+2022/06/20 14:58:35 - INFO -:: Epoch[0419]-Train_Loss: 0.1369
+2022/06/20 15:00:54 - INFO -:: Eval:: dice_score: 0.77817 hausdorff_score: 0.94852 all_score: 0.88038
+2022/06/20 15:02:55 - INFO -:: Epoch[0420]-Train_Loss: 0.1336
+2022/06/20 15:04:53 - INFO -:: Epoch[0421]-Train_Loss: 0.1304
+2022/06/20 15:06:54 - INFO -:: Epoch[0422]-Train_Loss: 0.1340
+2022/06/20 15:08:52 - INFO -:: Epoch[0423]-Train_Loss: 0.1324
+2022/06/20 15:10:49 - INFO -:: Epoch[0424]-Train_Loss: 0.1393
+2022/06/20 15:13:11 - INFO -:: Eval:: dice_score: 0.79539 hausdorff_score: 0.95359 all_score: 0.89031
+2022/06/20 15:13:17 - INFO -:: Find better metric: val_metric 0.88793 -> 0.89031 💯🆕 in epoch[424] !!!
+2022/06/20 15:15:14 - INFO -:: Epoch[0425]-Train_Loss: 0.1288
+2022/06/20 15:17:14 - INFO -:: Epoch[0426]-Train_Loss: 0.1369
+2022/06/20 15:19:09 - INFO -:: Epoch[0427]-Train_Loss: 0.1364
+2022/06/20 15:21:06 - INFO -:: Epoch[0428]-Train_Loss: 0.1325
+2022/06/20 15:23:02 - INFO -:: Epoch[0429]-Train_Loss: 0.1313
+2022/06/20 15:25:26 - INFO -:: Eval:: dice_score: 0.7885 hausdorff_score: 0.94786 all_score: 0.88412
+2022/06/20 15:27:23 - INFO -:: Epoch[0430]-Train_Loss: 0.1311
+2022/06/20 15:29:20 - INFO -:: Epoch[0431]-Train_Loss: 0.1206
+2022/06/20 15:31:16 - INFO -:: Epoch[0432]-Train_Loss: 0.1216
+2022/06/20 15:33:15 - INFO -:: Epoch[0433]-Train_Loss: 0.1263
+2022/06/20 15:35:13 - INFO -:: Epoch[0434]-Train_Loss: 0.1595
+2022/06/20 15:37:37 - INFO -:: Eval:: dice_score: 0.77783 hausdorff_score: 0.95285 all_score: 0.88284
+2022/06/20 15:39:33 - INFO -:: Epoch[0435]-Train_Loss: 0.1291
+2022/06/20 15:41:31 - INFO -:: Epoch[0436]-Train_Loss: 0.1247
+2022/06/20 15:43:28 - INFO -:: Epoch[0437]-Train_Loss: 0.1254
+2022/06/20 15:45:25 - INFO -:: Epoch[0438]-Train_Loss: 0.1240
+2022/06/20 15:47:22 - INFO -:: Epoch[0439]-Train_Loss: 0.1229
+2022/06/20 15:49:47 - INFO -:: Eval:: dice_score: 0.7907 hausdorff_score: 0.94544 all_score: 0.88355
+2022/06/20 15:51:43 - INFO -:: Epoch[0440]-Train_Loss: 0.1225
+2022/06/20 15:53:40 - INFO -:: Epoch[0441]-Train_Loss: 0.1226
+2022/06/20 15:55:35 - INFO -:: Epoch[0442]-Train_Loss: 0.1245
+2022/06/20 15:57:31 - INFO -:: Epoch[0443]-Train_Loss: 0.1236
+2022/06/20 15:59:30 - INFO -:: Epoch[0444]-Train_Loss: 0.1188
+2022/06/20 16:01:55 - INFO -:: Eval:: dice_score: 0.79367 hausdorff_score: 0.95103 all_score: 0.88808
+2022/06/20 16:03:55 - INFO -:: Epoch[0445]-Train_Loss: 0.1187
+2022/06/20 16:05:50 - INFO -:: Epoch[0446]-Train_Loss: 0.1172
+2022/06/20 16:07:47 - INFO -:: Epoch[0447]-Train_Loss: 0.1288
+2022/06/20 16:09:42 - INFO -:: Epoch[0448]-Train_Loss: 0.1196
+2022/06/20 16:11:44 - INFO -:: Epoch[0449]-Train_Loss: 0.1280
+2022/06/20 16:14:07 - INFO -:: Eval:: dice_score: 0.78762 hausdorff_score: 0.95833 all_score: 0.89004
+2022/06/20 16:16:06 - INFO -:: Epoch[0450]-Train_Loss: 0.1160
+2022/06/20 16:18:01 - INFO -:: Epoch[0451]-Train_Loss: 0.1184
+2022/06/20 16:19:58 - INFO -:: Epoch[0452]-Train_Loss: 0.1186
+2022/06/20 16:21:54 - INFO -:: Epoch[0453]-Train_Loss: 0.1176
+2022/06/20 16:23:51 - INFO -:: Epoch[0454]-Train_Loss: 0.1215
+2022/06/20 16:26:16 - INFO -:: Eval:: dice_score: 0.78931 hausdorff_score: 0.95647 all_score: 0.88961
+2022/06/20 16:28:14 - INFO -:: Epoch[0455]-Train_Loss: 0.1154
+2022/06/20 16:30:10 - INFO -:: Epoch[0456]-Train_Loss: 0.1097
+2022/06/20 16:32:08 - INFO -:: Epoch[0457]-Train_Loss: 0.1207
+2022/06/20 16:34:04 - INFO -:: Epoch[0458]-Train_Loss: 0.1138
+2022/06/20 16:36:00 - INFO -:: Epoch[0459]-Train_Loss: 0.1177
+2022/06/20 16:38:25 - INFO -:: Eval:: dice_score: 0.78636 hausdorff_score: 0.95579 all_score: 0.88802
+2022/06/20 16:40:25 - INFO -:: Epoch[0460]-Train_Loss: 0.1205
+2022/06/20 16:42:22 - INFO -:: Epoch[0461]-Train_Loss: 0.1209
+2022/06/20 16:44:16 - INFO -:: Epoch[0462]-Train_Loss: 0.1147
+2022/06/20 16:46:15 - INFO -:: Epoch[0463]-Train_Loss: 0.1109
+2022/06/20 16:48:11 - INFO -:: Epoch[0464]-Train_Loss: 0.1152
+2022/06/20 16:50:38 - INFO -:: Eval:: dice_score: 0.78024 hausdorff_score: 0.95746 all_score: 0.88657
+2022/06/20 16:52:39 - INFO -:: Epoch[0465]-Train_Loss: 0.1147
+2022/06/20 16:54:34 - INFO -:: Epoch[0466]-Train_Loss: 0.1098
+2022/06/20 16:56:31 - INFO -:: Epoch[0467]-Train_Loss: 0.1100
+2022/06/20 16:58:29 - INFO -:: Epoch[0468]-Train_Loss: 0.1166
+2022/06/20 17:00:27 - INFO -:: Epoch[0469]-Train_Loss: 0.1165
+2022/06/20 17:02:54 - INFO -:: Eval:: dice_score: 0.78991 hausdorff_score: 0.95731 all_score: 0.89035
+2022/06/20 17:03:00 - INFO -:: Find better metric: val_metric 0.89031 -> 0.89035 💯🆕 in epoch[469] !!!
+2022/06/20 17:04:53 - INFO -:: Epoch[0470]-Train_Loss: 0.1125
+2022/06/20 17:06:50 - INFO -:: Epoch[0471]-Train_Loss: 0.1118
+2022/06/20 17:08:47 - INFO -:: Epoch[0472]-Train_Loss: 0.1196
+2022/06/20 17:10:45 - INFO -:: Epoch[0473]-Train_Loss: 0.1123
+2022/06/20 17:12:41 - INFO -:: Epoch[0474]-Train_Loss: 0.1061
+2022/06/20 17:15:09 - INFO -:: Eval:: dice_score: 0.78776 hausdorff_score: 0.95632 all_score: 0.88889
+2022/06/20 17:17:07 - INFO -:: Epoch[0475]-Train_Loss: 0.1076
+2022/06/20 17:19:03 - INFO -:: Epoch[0476]-Train_Loss: 0.1129
+2022/06/20 17:21:00 - INFO -:: Epoch[0477]-Train_Loss: 0.1201
+2022/06/20 17:23:00 - INFO -:: Epoch[0478]-Train_Loss: 0.1093
+2022/06/20 17:25:02 - INFO -:: Epoch[0479]-Train_Loss: 0.1088
+2022/06/20 17:27:29 - INFO -:: Eval:: dice_score: 0.78635 hausdorff_score: 0.95729 all_score: 0.88892
+2022/06/20 17:29:28 - INFO -:: Epoch[0480]-Train_Loss: 0.1148
+2022/06/20 17:31:25 - INFO -:: Epoch[0481]-Train_Loss: 0.1236
+2022/06/20 17:33:22 - INFO -:: Epoch[0482]-Train_Loss: 0.1112
+2022/06/20 17:35:20 - INFO -:: Epoch[0483]-Train_Loss: 0.1104
+2022/06/20 17:37:21 - INFO -:: Epoch[0484]-Train_Loss: 0.1113
+2022/06/20 17:39:51 - INFO -:: Eval:: dice_score: 0.79311 hausdorff_score: 0.95611 all_score: 0.89091
+2022/06/20 17:39:57 - INFO -:: Find better metric: val_metric 0.89035 -> 0.89091 💯🆕 in epoch[484] !!!
+2022/06/20 17:41:54 - INFO -:: Epoch[0485]-Train_Loss: 0.1169
+2022/06/20 17:43:53 - INFO -:: Epoch[0486]-Train_Loss: 0.1128
+2022/06/20 17:45:52 - INFO -:: Epoch[0487]-Train_Loss: 0.1100
+2022/06/20 17:47:50 - INFO -:: Epoch[0488]-Train_Loss: 0.1190
+2022/06/20 17:49:45 - INFO -:: Epoch[0489]-Train_Loss: 0.1085
+2022/06/20 17:52:14 - INFO -:: Eval:: dice_score: 0.787 hausdorff_score: 0.95813 all_score: 0.88968
+2022/06/20 17:54:10 - INFO -:: Epoch[0490]-Train_Loss: 0.1106
+2022/06/20 17:56:09 - INFO -:: Epoch[0491]-Train_Loss: 0.1092
+2022/06/20 17:58:06 - INFO -:: Epoch[0492]-Train_Loss: 0.1137
+2022/06/20 18:00:02 - INFO -:: Epoch[0493]-Train_Loss: 0.1078
+2022/06/20 18:02:00 - INFO -:: Epoch[0494]-Train_Loss: 0.1271
+2022/06/20 18:04:30 - INFO -:: Eval:: dice_score: 0.79524 hausdorff_score: 0.88797 all_score: 0.85087
+2022/06/20 18:06:25 - INFO -:: Epoch[0495]-Train_Loss: 0.1454
+2022/06/20 18:08:24 - INFO -:: Epoch[0496]-Train_Loss: 0.1361
+2022/06/20 18:10:19 - INFO -:: Epoch[0497]-Train_Loss: 0.1348
+2022/06/20 18:12:18 - INFO -:: Epoch[0498]-Train_Loss: 0.1458
+2022/06/20 18:14:15 - INFO -:: Epoch[0499]-Train_Loss: 0.1410
+2022/06/20 18:16:39 - INFO -:: Eval:: dice_score: 0.74574 hausdorff_score: 0.95675 all_score: 0.87235
+2022/06/20 18:18:36 - INFO -:: Epoch[0500]-Train_Loss: 0.1405
+2022/06/20 18:20:35 - INFO -:: Epoch[0501]-Train_Loss: 0.1343
+2022/06/20 18:22:32 - INFO -:: Epoch[0502]-Train_Loss: 0.1309
+2022/06/20 18:24:30 - INFO -:: Epoch[0503]-Train_Loss: 0.1196
+2022/06/20 18:26:31 - INFO -:: Epoch[0504]-Train_Loss: 0.1286
+2022/06/20 18:28:57 - INFO -:: Eval:: dice_score: 0.77842 hausdorff_score: 0.95478 all_score: 0.88424
+2022/06/20 18:30:53 - INFO -:: Epoch[0505]-Train_Loss: 0.1231
+2022/06/20 18:32:53 - INFO -:: Epoch[0506]-Train_Loss: 0.1259
+2022/06/20 18:34:51 - INFO -:: Epoch[0507]-Train_Loss: 0.1330
+2022/06/20 18:36:46 - INFO -:: Epoch[0508]-Train_Loss: 0.1250
+2022/06/20 18:38:43 - INFO -:: Epoch[0509]-Train_Loss: 0.1262
+2022/06/20 18:41:09 - INFO -:: Eval:: dice_score: 0.77085 hausdorff_score: 0.95638 all_score: 0.88217
+2022/06/20 18:43:07 - INFO -:: Epoch[0510]-Train_Loss: 0.1224
+2022/06/20 18:45:05 - INFO -:: Epoch[0511]-Train_Loss: 0.1222
+2022/06/20 18:47:02 - INFO -:: Epoch[0512]-Train_Loss: 0.1358
+2022/06/20 18:49:01 - INFO -:: Epoch[0513]-Train_Loss: 0.1253
+2022/06/20 18:50:57 - INFO -:: Epoch[0514]-Train_Loss: 0.1235
+2022/06/20 18:53:24 - INFO -:: Eval:: dice_score: 0.78089 hausdorff_score: 0.95553 all_score: 0.88568
+2022/06/20 18:55:23 - INFO -:: Epoch[0515]-Train_Loss: 0.1220
+2022/06/20 18:57:17 - INFO -:: Epoch[0516]-Train_Loss: 0.1210
+2022/06/20 18:59:12 - INFO -:: Epoch[0517]-Train_Loss: 0.1188
+2022/06/20 19:01:08 - INFO -:: Epoch[0518]-Train_Loss: 0.1201
+2022/06/20 19:03:08 - INFO -:: Epoch[0519]-Train_Loss: 0.1221
+2022/06/20 19:05:36 - INFO -:: Eval:: dice_score: 0.79906 hausdorff_score: 0.94842 all_score: 0.88868
+2022/06/20 19:07:34 - INFO -:: Epoch[0520]-Train_Loss: 0.1213
+2022/06/20 19:09:31 - INFO -:: Epoch[0521]-Train_Loss: 0.1124
+2022/06/20 19:11:27 - INFO -:: Epoch[0522]-Train_Loss: 0.1187
+2022/06/20 19:13:27 - INFO -:: Epoch[0523]-Train_Loss: 0.1239
+2022/06/20 19:15:23 - INFO -:: Epoch[0524]-Train_Loss: 0.1190
+2022/06/20 19:17:52 - INFO -:: Eval:: dice_score: 0.77601 hausdorff_score: 0.95009 all_score: 0.88046
+2022/06/20 19:19:51 - INFO -:: Epoch[0525]-Train_Loss: 0.1199
+2022/06/20 19:21:47 - INFO -:: Epoch[0526]-Train_Loss: 0.1184
+2022/06/20 19:23:45 - INFO -:: Epoch[0527]-Train_Loss: 0.1258
+2022/06/20 19:25:41 - INFO -:: Epoch[0528]-Train_Loss: 0.1294
+2022/06/20 19:27:41 - INFO -:: Epoch[0529]-Train_Loss: 0.1256
+2022/06/20 19:30:09 - INFO -:: Eval:: dice_score: 0.79364 hausdorff_score: 0.94848 all_score: 0.88654
+2022/06/20 19:32:08 - INFO -:: Epoch[0530]-Train_Loss: 0.1245
+2022/06/20 19:34:04 - INFO -:: Epoch[0531]-Train_Loss: 0.1308
+2022/06/20 19:36:03 - INFO -:: Epoch[0532]-Train_Loss: 0.1265
+2022/06/20 19:38:01 - INFO -:: Epoch[0533]-Train_Loss: 0.1248
+2022/06/20 19:39:58 - INFO -:: Epoch[0534]-Train_Loss: 0.1231
+2022/06/20 19:42:26 - INFO -:: Eval:: dice_score: 0.78469 hausdorff_score: 0.95493 all_score: 0.88684
+2022/06/20 19:44:23 - INFO -:: Epoch[0535]-Train_Loss: 0.1251
+2022/06/20 19:46:19 - INFO -:: Epoch[0536]-Train_Loss: 0.1214
+2022/06/20 19:48:17 - INFO -:: Epoch[0537]-Train_Loss: 0.1168
+2022/06/20 19:50:14 - INFO -:: Epoch[0538]-Train_Loss: 0.1143
+2022/06/20 19:52:09 - INFO -:: Epoch[0539]-Train_Loss: 0.1135
+2022/06/20 19:54:37 - INFO -:: Eval:: dice_score: 0.78558 hausdorff_score: 0.95417 all_score: 0.88673
+2022/06/20 19:56:36 - INFO -:: Epoch[0540]-Train_Loss: 0.1182
+2022/06/20 19:58:34 - INFO -:: Epoch[0541]-Train_Loss: 0.1266
+2022/06/20 20:00:32 - INFO -:: Epoch[0542]-Train_Loss: 0.1191
+2022/06/20 20:02:28 - INFO -:: Epoch[0543]-Train_Loss: 0.1214
+2022/06/20 20:04:25 - INFO -:: Epoch[0544]-Train_Loss: 0.1130
+2022/06/20 20:06:54 - INFO -:: Eval:: dice_score: 0.79643 hausdorff_score: 0.94957 all_score: 0.88831
+2022/06/20 20:08:49 - INFO -:: Epoch[0545]-Train_Loss: 0.1114
+2022/06/20 20:10:44 - INFO -:: Epoch[0546]-Train_Loss: 0.1095
+2022/06/20 20:12:42 - INFO -:: Epoch[0547]-Train_Loss: 0.1133
+2022/06/20 20:14:39 - INFO -:: Epoch[0548]-Train_Loss: 0.1090
+2022/06/20 20:16:35 - INFO -:: Epoch[0549]-Train_Loss: 0.1129
+2022/06/20 20:19:04 - INFO -:: Eval:: dice_score: 0.78617 hausdorff_score: 0.95936 all_score: 0.89008
+2022/06/20 20:21:03 - INFO -:: Epoch[0550]-Train_Loss: 0.1132
+2022/06/20 20:23:02 - INFO -:: Epoch[0551]-Train_Loss: 0.1154
+2022/06/20 20:24:58 - INFO -:: Epoch[0552]-Train_Loss: 0.1136
+2022/06/20 20:26:55 - INFO -:: Epoch[0553]-Train_Loss: 0.1134
+2022/06/20 20:28:50 - INFO -:: Epoch[0554]-Train_Loss: 0.1052
+2022/06/20 20:31:19 - INFO -:: Eval:: dice_score: 0.79807 hausdorff_score: 0.95682 all_score: 0.89332
+2022/06/20 20:31:26 - INFO -:: Find better metric: val_metric 0.89091 -> 0.89332 💯🆕 in epoch[554] !!!
+2022/06/20 20:33:18 - INFO -:: Epoch[0555]-Train_Loss: 0.1119
+2022/06/20 20:35:15 - INFO -:: Epoch[0556]-Train_Loss: 0.1077
+2022/06/20 20:37:12 - INFO -:: Epoch[0557]-Train_Loss: 0.1102
+2022/06/20 20:39:10 - INFO -:: Epoch[0558]-Train_Loss: 0.1090
+2022/06/20 20:41:06 - INFO -:: Epoch[0559]-Train_Loss: 0.1067
+2022/06/20 20:43:36 - INFO -:: Eval:: dice_score: 0.79759 hausdorff_score: 0.95465 all_score: 0.89183
+2022/06/20 20:45:34 - INFO -:: Epoch[0560]-Train_Loss: 0.1033
+2022/06/20 20:47:32 - INFO -:: Epoch[0561]-Train_Loss: 0.1141
+2022/06/20 20:49:27 - INFO -:: Epoch[0562]-Train_Loss: 0.1045
+2022/06/20 20:51:25 - INFO -:: Epoch[0563]-Train_Loss: 0.1098
+2022/06/20 20:53:21 - INFO -:: Epoch[0564]-Train_Loss: 0.1104
+2022/06/20 20:55:50 - INFO -:: Eval:: dice_score: 0.79075 hausdorff_score: 0.95719 all_score: 0.89062
+2022/06/20 20:57:49 - INFO -:: Epoch[0565]-Train_Loss: 0.1079
+2022/06/20 20:59:44 - INFO -:: Epoch[0566]-Train_Loss: 0.1092
+2022/06/20 21:01:40 - INFO -:: Epoch[0567]-Train_Loss: 0.1029
+2022/06/20 21:03:38 - INFO -:: Epoch[0568]-Train_Loss: 0.1049
+2022/06/20 21:05:32 - INFO -:: Epoch[0569]-Train_Loss: 0.1070
+2022/06/20 21:08:00 - INFO -:: Eval:: dice_score: 0.79262 hausdorff_score: 0.95808 all_score: 0.8919
+2022/06/20 21:09:58 - INFO -:: Epoch[0570]-Train_Loss: 0.1092
+2022/06/20 21:11:54 - INFO -:: Epoch[0571]-Train_Loss: 0.1085
+2022/06/20 21:13:51 - INFO -:: Epoch[0572]-Train_Loss: 0.1051
+2022/06/20 21:15:48 - INFO -:: Epoch[0573]-Train_Loss: 0.1084
+2022/06/20 21:17:46 - INFO -:: Epoch[0574]-Train_Loss: 0.1035
+2022/06/20 21:20:15 - INFO -:: Eval:: dice_score: 0.79685 hausdorff_score: 0.9576 all_score: 0.8933
+2022/06/20 21:22:08 - INFO -:: Epoch[0575]-Train_Loss: 0.1031
+2022/06/20 21:24:04 - INFO -:: Epoch[0576]-Train_Loss: 0.1093
+2022/06/20 21:26:00 - INFO -:: Epoch[0577]-Train_Loss: 0.1092
+2022/06/20 21:27:55 - INFO -:: Epoch[0578]-Train_Loss: 0.1035
+2022/06/20 21:29:50 - INFO -:: Epoch[0579]-Train_Loss: 0.1049
+2022/06/20 21:32:19 - INFO -:: Eval:: dice_score: 0.79527 hausdorff_score: 0.95682 all_score: 0.8922
+2022/06/20 21:34:17 - INFO -:: Epoch[0580]-Train_Loss: 0.1073
+2022/06/20 21:36:14 - INFO -:: Epoch[0581]-Train_Loss: 0.1098
+2022/06/20 21:38:12 - INFO -:: Epoch[0582]-Train_Loss: 0.1089
+2022/06/20 21:40:13 - INFO -:: Epoch[0583]-Train_Loss: 0.1111
+2022/06/20 21:42:11 - INFO -:: Epoch[0584]-Train_Loss: 0.1064
+2022/06/20 21:44:39 - INFO -:: Eval:: dice_score: 0.79147 hausdorff_score: 0.95913 all_score: 0.89207
+2022/06/20 21:46:35 - INFO -:: Epoch[0585]-Train_Loss: 0.1090
+2022/06/20 21:48:35 - INFO -:: Epoch[0586]-Train_Loss: 0.1123
+2022/06/20 21:50:31 - INFO -:: Epoch[0587]-Train_Loss: 0.1145
+2022/06/20 21:52:25 - INFO -:: Epoch[0588]-Train_Loss: 0.1075
+2022/06/20 21:54:22 - INFO -:: Epoch[0589]-Train_Loss: 0.1031
+2022/06/20 21:56:52 - INFO -:: Eval:: dice_score: 0.79462 hausdorff_score: 0.95796 all_score: 0.89262
+2022/06/20 21:58:47 - INFO -:: Epoch[0590]-Train_Loss: 0.1109
+2022/06/20 22:00:47 - INFO -:: Epoch[0591]-Train_Loss: 0.1051
+2022/06/20 22:02:43 - INFO -:: Epoch[0592]-Train_Loss: 0.1049
+2022/06/20 22:04:43 - INFO -:: Epoch[0593]-Train_Loss: 0.1182
+2022/06/20 22:06:36 - INFO -:: Epoch[0594]-Train_Loss: 0.1180
+2022/06/20 22:09:05 - INFO -:: Eval:: dice_score: 0.75337 hausdorff_score: 0.95317 all_score: 0.87325
+2022/06/20 22:11:02 - INFO -:: Epoch[0595]-Train_Loss: 0.1447
+2022/06/20 22:12:57 - INFO -:: Epoch[0596]-Train_Loss: 0.1252
+2022/06/20 22:14:55 - INFO -:: Epoch[0597]-Train_Loss: 0.1201
+2022/06/20 22:16:53 - INFO -:: Epoch[0598]-Train_Loss: 0.1287
+2022/06/20 22:18:49 - INFO -:: Epoch[0599]-Train_Loss: 0.1180
+2022/06/20 22:21:21 - INFO -:: Eval:: dice_score: 0.7927 hausdorff_score: 0.95179 all_score: 0.88816
+2022/06/20 22:23:19 - INFO -:: Epoch[0600]-Train_Loss: 0.1159
+2022/06/20 22:25:19 - INFO -:: Epoch[0601]-Train_Loss: 0.1203
+2022/06/20 22:27:16 - INFO -:: Epoch[0602]-Train_Loss: 0.1116
+2022/06/20 22:29:12 - INFO -:: Epoch[0603]-Train_Loss: 0.1323
+2022/06/20 22:31:09 - INFO -:: Epoch[0604]-Train_Loss: 0.1396
+2022/06/20 22:33:39 - INFO -:: Eval:: dice_score: 0.75969 hausdorff_score: 0.94541 all_score: 0.87112
+2022/06/20 22:35:37 - INFO -:: Epoch[0605]-Train_Loss: 0.1269
+2022/06/20 22:37:36 - INFO -:: Epoch[0606]-Train_Loss: 0.1261
+2022/06/20 22:39:29 - INFO -:: Epoch[0607]-Train_Loss: 0.1254
+2022/06/20 22:41:26 - INFO -:: Epoch[0608]-Train_Loss: 0.1232
+2022/06/20 22:43:22 - INFO -:: Epoch[0609]-Train_Loss: 0.1343
+2022/06/20 22:45:51 - INFO -:: Eval:: dice_score: 0.7934 hausdorff_score: 0.95341 all_score: 0.88941
+2022/06/20 22:47:47 - INFO -:: Epoch[0610]-Train_Loss: 0.1228
+2022/06/20 22:49:43 - INFO -:: Epoch[0611]-Train_Loss: 0.1217
+2022/06/20 22:51:43 - INFO -:: Epoch[0612]-Train_Loss: 0.1195
+2022/06/20 22:53:41 - INFO -:: Epoch[0613]-Train_Loss: 0.1301
+2022/06/20 22:55:38 - INFO -:: Epoch[0614]-Train_Loss: 0.1237
+2022/06/20 22:58:06 - INFO -:: Eval:: dice_score: 0.79583 hausdorff_score: 0.94963 all_score: 0.88811
+2022/06/20 23:00:05 - INFO -:: Epoch[0615]-Train_Loss: 0.1247
+2022/06/20 23:02:03 - INFO -:: Epoch[0616]-Train_Loss: 0.1211
+2022/06/20 23:03:59 - INFO -:: Epoch[0617]-Train_Loss: 0.1181
+2022/06/20 23:05:57 - INFO -:: Epoch[0618]-Train_Loss: 0.1164
+2022/06/20 23:07:53 - INFO -:: Epoch[0619]-Train_Loss: 0.1169
+2022/06/20 23:10:24 - INFO -:: Eval:: dice_score: 0.79081 hausdorff_score: 0.94713 all_score: 0.8846
+2022/06/20 23:12:22 - INFO -:: Epoch[0620]-Train_Loss: 0.1162
+2022/06/20 23:14:21 - INFO -:: Epoch[0621]-Train_Loss: 0.1152
+2022/06/20 23:16:21 - INFO -:: Epoch[0622]-Train_Loss: 0.1296
+2022/06/20 23:18:20 - INFO -:: Epoch[0623]-Train_Loss: 0.1206
+2022/06/20 23:20:14 - INFO -:: Epoch[0624]-Train_Loss: 0.1107
+2022/06/20 23:22:44 - INFO -:: Eval:: dice_score: 0.79439 hausdorff_score: 0.95362 all_score: 0.88993
+2022/06/20 23:24:40 - INFO -:: Epoch[0625]-Train_Loss: 0.1158
+2022/06/20 23:26:36 - INFO -:: Epoch[0626]-Train_Loss: 0.1165
+2022/06/20 23:28:36 - INFO -:: Epoch[0627]-Train_Loss: 0.1218
+2022/06/20 23:30:34 - INFO -:: Epoch[0628]-Train_Loss: 0.1163
+2022/06/20 23:32:30 - INFO -:: Epoch[0629]-Train_Loss: 0.1156
+2022/06/20 23:34:58 - INFO -:: Eval:: dice_score: 0.7951 hausdorff_score: 0.95464 all_score: 0.89082
+2022/06/20 23:36:57 - INFO -:: Epoch[0630]-Train_Loss: 0.1139
+2022/06/20 23:38:57 - INFO -:: Epoch[0631]-Train_Loss: 0.1180
+2022/06/20 23:40:56 - INFO -:: Epoch[0632]-Train_Loss: 0.1170
+2022/06/20 23:42:51 - INFO -:: Epoch[0633]-Train_Loss: 0.1170
+2022/06/20 23:44:50 - INFO -:: Epoch[0634]-Train_Loss: 0.1122
+2022/06/20 23:47:19 - INFO -:: Eval:: dice_score: 0.80159 hausdorff_score: 0.95265 all_score: 0.89223
+2022/06/20 23:49:15 - INFO -:: Epoch[0635]-Train_Loss: 0.1093
+2022/06/20 23:51:14 - INFO -:: Epoch[0636]-Train_Loss: 0.1170
+2022/06/20 23:53:12 - INFO -:: Epoch[0637]-Train_Loss: 0.1113
+2022/06/20 23:55:12 - INFO -:: Epoch[0638]-Train_Loss: 0.1148
+2022/06/20 23:57:09 - INFO -:: Epoch[0639]-Train_Loss: 0.1115
+2022/06/20 23:59:40 - INFO -:: Eval:: dice_score: 0.80303 hausdorff_score: 0.95323 all_score: 0.89315
+2022/06/21 00:01:37 - INFO -:: Epoch[0640]-Train_Loss: 0.1129
+2022/06/21 00:03:33 - INFO -:: Epoch[0641]-Train_Loss: 0.1064
+2022/06/21 00:05:33 - INFO -:: Epoch[0642]-Train_Loss: 0.1239
+2022/06/21 00:07:29 - INFO -:: Epoch[0643]-Train_Loss: 0.1207
+2022/06/21 00:09:27 - INFO -:: Epoch[0644]-Train_Loss: 0.1109
+2022/06/21 00:11:56 - INFO -:: Eval:: dice_score: 0.78829 hausdorff_score: 0.95674 all_score: 0.88936
+2022/06/21 00:13:52 - INFO -:: Epoch[0645]-Train_Loss: 0.1098
+2022/06/21 00:15:49 - INFO -:: Epoch[0646]-Train_Loss: 0.1018
+2022/06/21 00:17:44 - INFO -:: Epoch[0647]-Train_Loss: 0.1040
+2022/06/21 00:19:43 - INFO -:: Epoch[0648]-Train_Loss: 0.1148
+2022/06/21 00:21:41 - INFO -:: Epoch[0649]-Train_Loss: 0.1101
+2022/06/21 00:24:10 - INFO -:: Eval:: dice_score: 0.77953 hausdorff_score: 0.95703 all_score: 0.88603
+2022/06/21 00:26:12 - INFO -:: Epoch[0650]-Train_Loss: 0.1120
+2022/06/21 00:28:11 - INFO -:: Epoch[0651]-Train_Loss: 0.1117
+2022/06/21 00:30:07 - INFO -:: Epoch[0652]-Train_Loss: 0.1071
+2022/06/21 00:32:07 - INFO -:: Epoch[0653]-Train_Loss: 0.1074
+2022/06/21 00:34:04 - INFO -:: Epoch[0654]-Train_Loss: 0.1080
+2022/06/21 00:36:33 - INFO -:: Eval:: dice_score: 0.79381 hausdorff_score: 0.95399 all_score: 0.88992
+2022/06/21 00:38:30 - INFO -:: Epoch[0655]-Train_Loss: 0.1061
+2022/06/21 00:40:26 - INFO -:: Epoch[0656]-Train_Loss: 0.1084
+2022/06/21 00:42:24 - INFO -:: Epoch[0657]-Train_Loss: 0.1162
+2022/06/21 00:44:19 - INFO -:: Epoch[0658]-Train_Loss: 0.1057
+2022/06/21 00:46:17 - INFO -:: Epoch[0659]-Train_Loss: 0.1073
+2022/06/21 00:48:46 - INFO -:: Eval:: dice_score: 0.78866 hausdorff_score: 0.9591 all_score: 0.89092
+2022/06/21 00:50:44 - INFO -:: Epoch[0660]-Train_Loss: 0.1037
+2022/06/21 00:52:42 - INFO -:: Epoch[0661]-Train_Loss: 0.0977
+2022/06/21 00:54:38 - INFO -:: Epoch[0662]-Train_Loss: 0.1026
+2022/06/21 00:56:38 - INFO -:: Epoch[0663]-Train_Loss: 0.1076
+2022/06/21 00:58:36 - INFO -:: Epoch[0664]-Train_Loss: 0.1066
+2022/06/21 01:01:07 - INFO -:: Eval:: dice_score: 0.79597 hausdorff_score: 0.9565 all_score: 0.89229
+2022/06/21 01:03:06 - INFO -:: Epoch[0665]-Train_Loss: 0.1031
+2022/06/21 01:05:07 - INFO -:: Epoch[0666]-Train_Loss: 0.0997
+2022/06/21 01:07:04 - INFO -:: Epoch[0667]-Train_Loss: 0.1035
+2022/06/21 01:08:59 - INFO -:: Epoch[0668]-Train_Loss: 0.1034
+2022/06/21 01:10:58 - INFO -:: Epoch[0669]-Train_Loss: 0.1107
+2022/06/21 01:13:28 - INFO -:: Eval:: dice_score: 0.7898 hausdorff_score: 0.95686 all_score: 0.89003
+2022/06/21 01:15:26 - INFO -:: Epoch[0670]-Train_Loss: 0.1089
+2022/06/21 01:17:24 - INFO -:: Epoch[0671]-Train_Loss: 0.1116
+2022/06/21 01:19:26 - INFO -:: Epoch[0672]-Train_Loss: 0.1036
+2022/06/21 01:21:22 - INFO -:: Epoch[0673]-Train_Loss: 0.0999
+2022/06/21 01:23:19 - INFO -:: Epoch[0674]-Train_Loss: 0.1058
+2022/06/21 01:25:47 - INFO -:: Eval:: dice_score: 0.79759 hausdorff_score: 0.95692 all_score: 0.89319
+2022/06/21 01:27:42 - INFO -:: Epoch[0675]-Train_Loss: 0.1022
+2022/06/21 01:29:42 - INFO -:: Epoch[0676]-Train_Loss: 0.1145
+2022/06/21 01:31:38 - INFO -:: Epoch[0677]-Train_Loss: 0.1005
+2022/06/21 01:33:35 - INFO -:: Epoch[0678]-Train_Loss: 0.1008
+2022/06/21 01:35:33 - INFO -:: Epoch[0679]-Train_Loss: 0.1038
+2022/06/21 01:38:03 - INFO -:: Eval:: dice_score: 0.79503 hausdorff_score: 0.95781 all_score: 0.89269
+2022/06/21 01:39:59 - INFO -:: Epoch[0680]-Train_Loss: 0.0969
+2022/06/21 01:41:59 - INFO -:: Epoch[0681]-Train_Loss: 0.1018
+2022/06/21 01:43:58 - INFO -:: Epoch[0682]-Train_Loss: 0.0985
+2022/06/21 01:45:51 - INFO -:: Epoch[0683]-Train_Loss: 0.1057
+2022/06/21 01:47:49 - INFO -:: Epoch[0684]-Train_Loss: 0.1063
+2022/06/21 01:50:18 - INFO -:: Eval:: dice_score: 0.79771 hausdorff_score: 0.95777 all_score: 0.89375
+2022/06/21 01:50:25 - INFO -:: Find better metric: val_metric 0.89332 -> 0.89375 💯🆕 in epoch[684] !!!
+2022/06/21 01:52:19 - INFO -:: Epoch[0685]-Train_Loss: 0.1039
+2022/06/21 01:54:16 - INFO -:: Epoch[0686]-Train_Loss: 0.0989
+2022/06/21 01:56:12 - INFO -:: Epoch[0687]-Train_Loss: 0.1034
+2022/06/21 01:58:09 - INFO -:: Epoch[0688]-Train_Loss: 0.0991
+2022/06/21 02:00:10 - INFO -:: Epoch[0689]-Train_Loss: 0.1019
+2022/06/21 02:02:42 - INFO -:: Eval:: dice_score: 0.79374 hausdorff_score: 0.95871 all_score: 0.89272
+2022/06/21 02:04:41 - INFO -:: Epoch[0690]-Train_Loss: 0.0980
+2022/06/21 02:06:37 - INFO -:: Epoch[0691]-Train_Loss: 0.1027
+2022/06/21 02:08:33 - INFO -:: Epoch[0692]-Train_Loss: 0.1081
+2022/06/21 02:10:31 - INFO -:: Epoch[0693]-Train_Loss: 0.1183
+2022/06/21 02:12:26 - INFO -:: Epoch[0694]-Train_Loss: 0.1284
+2022/06/21 02:14:58 - INFO -:: Eval:: dice_score: 0.75741 hausdorff_score: 0.95542 all_score: 0.87621
+2022/06/21 02:16:57 - INFO -:: Epoch[0695]-Train_Loss: 0.1353
+2022/06/21 02:18:53 - INFO -:: Epoch[0696]-Train_Loss: 0.1243
+2022/06/21 02:20:54 - INFO -:: Epoch[0697]-Train_Loss: 0.1228
+2022/06/21 02:22:49 - INFO -:: Epoch[0698]-Train_Loss: 0.1303
+2022/06/21 02:24:48 - INFO -:: Epoch[0699]-Train_Loss: 0.1231
+2022/06/21 02:27:17 - INFO -:: Eval:: dice_score: 0.78388 hausdorff_score: 0.94755 all_score: 0.88208
+2022/06/21 02:29:17 - INFO -:: Epoch[0700]-Train_Loss: 0.1139
+2022/06/21 02:31:15 - INFO -:: Epoch[0701]-Train_Loss: 0.1227
+2022/06/21 02:33:14 - INFO -:: Epoch[0702]-Train_Loss: 0.1192
+2022/06/21 02:35:11 - INFO -:: Epoch[0703]-Train_Loss: 0.1268
+2022/06/21 02:37:10 - INFO -:: Epoch[0704]-Train_Loss: 0.1177
+2022/06/21 02:39:40 - INFO -:: Eval:: dice_score: 0.77062 hausdorff_score: 0.94782 all_score: 0.87694
+2022/06/21 02:41:37 - INFO -:: Epoch[0705]-Train_Loss: 0.1124
+2022/06/21 02:43:33 - INFO -:: Epoch[0706]-Train_Loss: 0.1178
+2022/06/21 02:45:34 - INFO -:: Epoch[0707]-Train_Loss: 0.1152
+2022/06/21 02:47:30 - INFO -:: Epoch[0708]-Train_Loss: 0.1154
+2022/06/21 02:49:28 - INFO -:: Epoch[0709]-Train_Loss: 0.1144
+2022/06/21 02:52:01 - INFO -:: Eval:: dice_score: 0.77397 hausdorff_score: 0.95546 all_score: 0.88286
+2022/06/21 02:53:57 - INFO -:: Epoch[0710]-Train_Loss: 0.1151
+2022/06/21 02:55:59 - INFO -:: Epoch[0711]-Train_Loss: 0.1162
+2022/06/21 02:57:57 - INFO -:: Epoch[0712]-Train_Loss: 0.1135
+2022/06/21 02:59:54 - INFO -:: Epoch[0713]-Train_Loss: 0.1136
+2022/06/21 03:01:51 - INFO -:: Epoch[0714]-Train_Loss: 0.1158
+2022/06/21 03:04:20 - INFO -:: Eval:: dice_score: 0.7954 hausdorff_score: 0.95409 all_score: 0.89061
+2022/06/21 03:06:19 - INFO -:: Epoch[0715]-Train_Loss: 0.1374
+2022/06/21 03:08:19 - INFO -:: Epoch[0716]-Train_Loss: 0.1202
+2022/06/21 03:10:14 - INFO -:: Epoch[0717]-Train_Loss: 0.1137
+2022/06/21 03:12:12 - INFO -:: Epoch[0718]-Train_Loss: 0.1062
+2022/06/21 03:14:12 - INFO -:: Epoch[0719]-Train_Loss: 0.1046
+2022/06/21 03:16:45 - INFO -:: Eval:: dice_score: 0.79431 hausdorff_score: 0.95304 all_score: 0.88955
+2022/06/21 03:18:45 - INFO -:: Epoch[0720]-Train_Loss: 0.1109
+2022/06/21 03:20:42 - INFO -:: Epoch[0721]-Train_Loss: 0.1182
+2022/06/21 03:22:39 - INFO -:: Epoch[0722]-Train_Loss: 0.1123
+2022/06/21 03:24:36 - INFO -:: Epoch[0723]-Train_Loss: 0.1076
+2022/06/21 03:26:34 - INFO -:: Epoch[0724]-Train_Loss: 0.1169
+2022/06/21 03:29:05 - INFO -:: Eval:: dice_score: 0.77252 hausdorff_score: 0.95087 all_score: 0.87953
+2022/06/21 03:31:02 - INFO -:: Epoch[0725]-Train_Loss: 0.1128
+2022/06/21 03:32:59 - INFO -:: Epoch[0726]-Train_Loss: 0.1091
+2022/06/21 03:34:56 - INFO -:: Epoch[0727]-Train_Loss: 0.1206
+2022/06/21 03:36:57 - INFO -:: Epoch[0728]-Train_Loss: 0.1135
+2022/06/21 03:38:54 - INFO -:: Epoch[0729]-Train_Loss: 0.1128
+2022/06/21 03:41:24 - INFO -:: Eval:: dice_score: 0.80359 hausdorff_score: 0.95297 all_score: 0.89322
+2022/06/21 03:43:19 - INFO -:: Epoch[0730]-Train_Loss: 0.1146
+2022/06/21 03:45:17 - INFO -:: Epoch[0731]-Train_Loss: 0.1096
+2022/06/21 03:47:11 - INFO -:: Epoch[0732]-Train_Loss: 0.1064
+2022/06/21 03:49:10 - INFO -:: Epoch[0733]-Train_Loss: 0.1094
+2022/06/21 03:51:06 - INFO -:: Epoch[0734]-Train_Loss: 0.1080
+2022/06/21 03:53:37 - INFO -:: Eval:: dice_score: 0.787 hausdorff_score: 0.95944 all_score: 0.89047
+2022/06/21 03:55:33 - INFO -:: Epoch[0735]-Train_Loss: 0.1176
+2022/06/21 03:57:28 - INFO -:: Epoch[0736]-Train_Loss: 0.1137
+2022/06/21 03:59:22 - INFO -:: Epoch[0737]-Train_Loss: 0.1120
+2022/06/21 04:01:20 - INFO -:: Epoch[0738]-Train_Loss: 0.1088
+2022/06/21 04:03:18 - INFO -:: Epoch[0739]-Train_Loss: 0.1026
+2022/06/21 04:05:49 - INFO -:: Eval:: dice_score: 0.7926 hausdorff_score: 0.95891 all_score: 0.89238
+2022/06/21 04:07:47 - INFO -:: Epoch[0740]-Train_Loss: 0.1090
+2022/06/21 04:09:41 - INFO -:: Epoch[0741]-Train_Loss: 0.1143
+2022/06/21 04:11:39 - INFO -:: Epoch[0742]-Train_Loss: 0.1118
+2022/06/21 04:13:33 - INFO -:: Epoch[0743]-Train_Loss: 0.1034
+2022/06/21 04:15:29 - INFO -:: Epoch[0744]-Train_Loss: 0.1055
+2022/06/21 04:18:02 - INFO -:: Eval:: dice_score: 0.79305 hausdorff_score: 0.95781 all_score: 0.8919
+2022/06/21 04:20:01 - INFO -:: Epoch[0745]-Train_Loss: 0.1037
+2022/06/21 04:22:00 - INFO -:: Epoch[0746]-Train_Loss: 0.0999
+2022/06/21 04:23:59 - INFO -:: Epoch[0747]-Train_Loss: 0.1044
+2022/06/21 04:25:56 - INFO -:: Epoch[0748]-Train_Loss: 0.1123
+2022/06/21 04:27:56 - INFO -:: Epoch[0749]-Train_Loss: 0.1015
+2022/06/21 04:30:25 - INFO -:: Eval:: dice_score: 0.79768 hausdorff_score: 0.95725 all_score: 0.89342
+2022/06/21 04:32:23 - INFO -:: Epoch[0750]-Train_Loss: 0.1148
+2022/06/21 04:34:19 - INFO -:: Epoch[0751]-Train_Loss: 0.1012
+2022/06/21 04:36:16 - INFO -:: Epoch[0752]-Train_Loss: 0.1017
+2022/06/21 04:38:13 - INFO -:: Epoch[0753]-Train_Loss: 0.1079
+2022/06/21 04:40:09 - INFO -:: Epoch[0754]-Train_Loss: 0.1001
+2022/06/21 04:42:38 - INFO -:: Eval:: dice_score: 0.79796 hausdorff_score: 0.95664 all_score: 0.89317
+2022/06/21 04:44:35 - INFO -:: Epoch[0755]-Train_Loss: 0.1037
+2022/06/21 04:46:33 - INFO -:: Epoch[0756]-Train_Loss: 0.1038
+2022/06/21 04:48:29 - INFO -:: Epoch[0757]-Train_Loss: 0.1059
+2022/06/21 04:50:25 - INFO -:: Epoch[0758]-Train_Loss: 0.1015
+2022/06/21 04:52:26 - INFO -:: Epoch[0759]-Train_Loss: 0.1059
+2022/06/21 04:54:56 - INFO -:: Eval:: dice_score: 0.78239 hausdorff_score: 0.95997 all_score: 0.88894
+2022/06/21 04:56:52 - INFO -:: Epoch[0760]-Train_Loss: 0.1042
+2022/06/21 04:58:50 - INFO -:: Epoch[0761]-Train_Loss: 0.1007
+2022/06/21 05:00:49 - INFO -:: Epoch[0762]-Train_Loss: 0.1022
+2022/06/21 05:02:46 - INFO -:: Epoch[0763]-Train_Loss: 0.1017
+2022/06/21 05:04:44 - INFO -:: Epoch[0764]-Train_Loss: 0.1037
+2022/06/21 05:07:16 - INFO -:: Eval:: dice_score: 0.79187 hausdorff_score: 0.95754 all_score: 0.89127
+2022/06/21 05:09:12 - INFO -:: Epoch[0765]-Train_Loss: 0.1067
+2022/06/21 05:11:09 - INFO -:: Epoch[0766]-Train_Loss: 0.0978
+2022/06/21 05:13:09 - INFO -:: Epoch[0767]-Train_Loss: 0.1020
+2022/06/21 05:15:05 - INFO -:: Epoch[0768]-Train_Loss: 0.1038
+2022/06/21 05:17:02 - INFO -:: Epoch[0769]-Train_Loss: 0.1068
+2022/06/21 05:19:33 - INFO -:: Eval:: dice_score: 0.79889 hausdorff_score: 0.95935 all_score: 0.89517
+2022/06/21 05:19:40 - INFO -:: Find better metric: val_metric 0.89375 -> 0.89517 💯🆕 in epoch[769] !!!
+2022/06/21 05:21:31 - INFO -:: Epoch[0770]-Train_Loss: 0.1054
+2022/06/21 05:23:28 - INFO -:: Epoch[0771]-Train_Loss: 0.1021
+2022/06/21 05:25:23 - INFO -:: Epoch[0772]-Train_Loss: 0.0987
+2022/06/21 05:27:21 - INFO -:: Epoch[0773]-Train_Loss: 0.1004
+2022/06/21 05:29:14 - INFO -:: Epoch[0774]-Train_Loss: 0.1024
+2022/06/21 05:31:47 - INFO -:: Eval:: dice_score: 0.79555 hausdorff_score: 0.95862 all_score: 0.89339
+2022/06/21 05:33:42 - INFO -:: Epoch[0775]-Train_Loss: 0.0987
+2022/06/21 05:35:40 - INFO -:: Epoch[0776]-Train_Loss: 0.0965
+2022/06/21 05:37:37 - INFO -:: Epoch[0777]-Train_Loss: 0.1004
+2022/06/21 05:39:34 - INFO -:: Epoch[0778]-Train_Loss: 0.0981
+2022/06/21 05:41:30 - INFO -:: Epoch[0779]-Train_Loss: 0.0973
+2022/06/21 05:44:02 - INFO -:: Eval:: dice_score: 0.79675 hausdorff_score: 0.9581 all_score: 0.89356
+2022/06/21 05:46:03 - INFO -:: Epoch[0780]-Train_Loss: 0.1037
+2022/06/21 05:48:02 - INFO -:: Epoch[0781]-Train_Loss: 0.0983
+2022/06/21 05:49:57 - INFO -:: Epoch[0782]-Train_Loss: 0.0997
+2022/06/21 05:51:55 - INFO -:: Epoch[0783]-Train_Loss: 0.1023
+2022/06/21 05:53:50 - INFO -:: Epoch[0784]-Train_Loss: 0.1005
+2022/06/21 05:56:22 - INFO -:: Eval:: dice_score: 0.79726 hausdorff_score: 0.95879 all_score: 0.89418
+2022/06/21 05:58:21 - INFO -:: Epoch[0785]-Train_Loss: 0.0961
+2022/06/21 06:00:18 - INFO -:: Epoch[0786]-Train_Loss: 0.1015
+2022/06/21 06:02:14 - INFO -:: Epoch[0787]-Train_Loss: 0.0989
+2022/06/21 06:04:12 - INFO -:: Epoch[0788]-Train_Loss: 0.1088
+2022/06/21 06:06:09 - INFO -:: Epoch[0789]-Train_Loss: 0.0983
+2022/06/21 06:08:42 - INFO -:: Eval:: dice_score: 0.79499 hausdorff_score: 0.95867 all_score: 0.8932
+2022/06/21 06:10:40 - INFO -:: Epoch[0790]-Train_Loss: 0.0963
+2022/06/21 06:12:36 - INFO -:: Epoch[0791]-Train_Loss: 0.1188
+2022/06/21 06:14:32 - INFO -:: Epoch[0792]-Train_Loss: 0.1545
+2022/06/21 06:16:32 - INFO -:: Epoch[0793]-Train_Loss: 0.1188
+2022/06/21 06:18:28 - INFO -:: Epoch[0794]-Train_Loss: 0.1127
+2022/06/21 06:21:01 - INFO -:: Eval:: dice_score: 0.78396 hausdorff_score: 0.95742 all_score: 0.88804
+2022/06/21 06:22:58 - INFO -:: Epoch[0795]-Train_Loss: 0.1168
+2022/06/21 06:24:55 - INFO -:: Epoch[0796]-Train_Loss: 0.1223
+2022/06/21 06:26:52 - INFO -:: Epoch[0797]-Train_Loss: 0.1073
+2022/06/21 06:28:52 - INFO -:: Epoch[0798]-Train_Loss: 0.1090
+2022/06/21 06:30:46 - INFO -:: Epoch[0799]-Train_Loss: 0.1092
+2022/06/21 06:33:17 - INFO -:: Eval:: dice_score: 0.79589 hausdorff_score: 0.95702 all_score: 0.89257
+2022/06/21 06:35:18 - INFO -:: Epoch[0800]-Train_Loss: 0.1237
+2022/06/21 06:37:17 - INFO -:: Epoch[0801]-Train_Loss: 0.1168
+2022/06/21 06:39:13 - INFO -:: Epoch[0802]-Train_Loss: 0.1108
+2022/06/21 06:41:11 - INFO -:: Epoch[0803]-Train_Loss: 0.1157
+2022/06/21 06:43:07 - INFO -:: Epoch[0804]-Train_Loss: 0.1178
+2022/06/21 06:45:38 - INFO -:: Eval:: dice_score: 0.80199 hausdorff_score: 0.95448 all_score: 0.89349
+2022/06/21 06:47:37 - INFO -:: Epoch[0805]-Train_Loss: 0.1109
+2022/06/21 06:49:33 - INFO -:: Epoch[0806]-Train_Loss: 0.1123
+2022/06/21 06:51:33 - INFO -:: Epoch[0807]-Train_Loss: 0.1124
+2022/06/21 06:53:28 - INFO -:: Epoch[0808]-Train_Loss: 0.1122
+2022/06/21 06:55:28 - INFO -:: Epoch[0809]-Train_Loss: 0.1093
+2022/06/21 06:58:00 - INFO -:: Eval:: dice_score: 0.78817 hausdorff_score: 0.95868 all_score: 0.89048
+2022/06/21 06:59:56 - INFO -:: Epoch[0810]-Train_Loss: 0.1131
+2022/06/21 07:01:55 - INFO -:: Epoch[0811]-Train_Loss: 0.1107
+2022/06/21 07:03:51 - INFO -:: Epoch[0812]-Train_Loss: 0.1160
+2022/06/21 07:05:47 - INFO -:: Epoch[0813]-Train_Loss: 0.1062
+2022/06/21 07:07:46 - INFO -:: Epoch[0814]-Train_Loss: 0.1171
+2022/06/21 07:10:19 - INFO -:: Eval:: dice_score: 0.80099 hausdorff_score: 0.94488 all_score: 0.88732
+2022/06/21 07:12:15 - INFO -:: Epoch[0815]-Train_Loss: 0.1074
+2022/06/21 07:14:11 - INFO -:: Epoch[0816]-Train_Loss: 0.1069
+2022/06/21 07:16:09 - INFO -:: Epoch[0817]-Train_Loss: 0.1136
+2022/06/21 07:18:03 - INFO -:: Epoch[0818]-Train_Loss: 0.1059
+2022/06/21 07:19:56 - INFO -:: Epoch[0819]-Train_Loss: 0.1175
+2022/06/21 07:22:27 - INFO -:: Eval:: dice_score: 0.79079 hausdorff_score: 0.95629 all_score: 0.89009
+2022/06/21 07:24:23 - INFO -:: Epoch[0820]-Train_Loss: 0.1103
+2022/06/21 07:26:22 - INFO -:: Epoch[0821]-Train_Loss: 0.1092
+2022/06/21 07:28:20 - INFO -:: Epoch[0822]-Train_Loss: 0.1115
+2022/06/21 07:30:17 - INFO -:: Epoch[0823]-Train_Loss: 0.1048
+2022/06/21 07:32:16 - INFO -:: Epoch[0824]-Train_Loss: 0.1149
+2022/06/21 07:34:51 - INFO -:: Eval:: dice_score: 0.80458 hausdorff_score: 0.94642 all_score: 0.88968
+2022/06/21 07:36:50 - INFO -:: Epoch[0825]-Train_Loss: 0.1135
+2022/06/21 07:38:50 - INFO -:: Epoch[0826]-Train_Loss: 0.1052
+2022/06/21 07:40:49 - INFO -:: Epoch[0827]-Train_Loss: 0.1028
+2022/06/21 07:42:46 - INFO -:: Epoch[0828]-Train_Loss: 0.1034
+2022/06/21 07:44:44 - INFO -:: Epoch[0829]-Train_Loss: 0.1036
+2022/06/21 07:47:16 - INFO -:: Eval:: dice_score: 0.79743 hausdorff_score: 0.95792 all_score: 0.89373
+2022/06/21 07:49:17 - INFO -:: Epoch[0830]-Train_Loss: 0.1107
+2022/06/21 07:51:11 - INFO -:: Epoch[0831]-Train_Loss: 0.1036
+2022/06/21 07:53:08 - INFO -:: Epoch[0832]-Train_Loss: 0.1046
+2022/06/21 07:55:08 - INFO -:: Epoch[0833]-Train_Loss: 0.1032
+2022/06/21 07:57:06 - INFO -:: Epoch[0834]-Train_Loss: 0.1074
+2022/06/21 07:59:38 - INFO -:: Eval:: dice_score: 0.78873 hausdorff_score: 0.95977 all_score: 0.89135
+2022/06/21 08:01:35 - INFO -:: Epoch[0835]-Train_Loss: 0.1005
+2022/06/21 08:03:35 - INFO -:: Epoch[0836]-Train_Loss: 0.1048
+2022/06/21 08:05:34 - INFO -:: Epoch[0837]-Train_Loss: 0.1041
+2022/06/21 08:07:30 - INFO -:: Epoch[0838]-Train_Loss: 0.0996
+2022/06/21 08:09:28 - INFO -:: Epoch[0839]-Train_Loss: 0.1052
+2022/06/21 08:12:00 - INFO -:: Eval:: dice_score: 0.79825 hausdorff_score: 0.95797 all_score: 0.89408
+2022/06/21 08:14:00 - INFO -:: Epoch[0840]-Train_Loss: 0.1002
+2022/06/21 08:15:57 - INFO -:: Epoch[0841]-Train_Loss: 0.1007
+2022/06/21 08:17:56 - INFO -:: Epoch[0842]-Train_Loss: 0.1044
+2022/06/21 08:19:51 - INFO -:: Epoch[0843]-Train_Loss: 0.1056
+2022/06/21 08:21:50 - INFO -:: Epoch[0844]-Train_Loss: 0.0997
+2022/06/21 08:24:22 - INFO -:: Eval:: dice_score: 0.79731 hausdorff_score: 0.95888 all_score: 0.89425
+2022/06/21 08:26:22 - INFO -:: Epoch[0845]-Train_Loss: 0.1033
+2022/06/21 08:28:18 - INFO -:: Epoch[0846]-Train_Loss: 0.0993
+2022/06/21 08:30:15 - INFO -:: Epoch[0847]-Train_Loss: 0.0995
+2022/06/21 08:32:12 - INFO -:: Epoch[0848]-Train_Loss: 0.0996
+2022/06/21 08:34:10 - INFO -:: Epoch[0849]-Train_Loss: 0.0981
+2022/06/21 08:36:43 - INFO -:: Eval:: dice_score: 0.78765 hausdorff_score: 0.96226 all_score: 0.89242
+2022/06/21 08:38:39 - INFO -:: Epoch[0850]-Train_Loss: 0.1002
+2022/06/21 08:40:35 - INFO -:: Epoch[0851]-Train_Loss: 0.0979
+2022/06/21 08:42:31 - INFO -:: Epoch[0852]-Train_Loss: 0.1079
+2022/06/21 08:44:28 - INFO -:: Epoch[0853]-Train_Loss: 0.0958
+2022/06/21 08:46:26 - INFO -:: Epoch[0854]-Train_Loss: 0.1023
+2022/06/21 08:48:55 - INFO -:: Eval:: dice_score: 0.7951 hausdorff_score: 0.9604 all_score: 0.89428
+2022/06/21 08:50:52 - INFO -:: Epoch[0855]-Train_Loss: 0.1034
+2022/06/21 08:52:47 - INFO -:: Epoch[0856]-Train_Loss: 0.0976
+2022/06/21 08:54:48 - INFO -:: Epoch[0857]-Train_Loss: 0.1048
+2022/06/21 08:56:47 - INFO -:: Epoch[0858]-Train_Loss: 0.1061
+2022/06/21 08:58:48 - INFO -:: Epoch[0859]-Train_Loss: 0.1005
+2022/06/21 09:01:21 - INFO -:: Eval:: dice_score: 0.79712 hausdorff_score: 0.95982 all_score: 0.89474
+2022/06/21 09:03:19 - INFO -:: Epoch[0860]-Train_Loss: 0.1023
+2022/06/21 09:05:15 - INFO -:: Epoch[0861]-Train_Loss: 0.1026
+2022/06/21 09:07:17 - INFO -:: Epoch[0862]-Train_Loss: 0.1001
+2022/06/21 09:09:17 - INFO -:: Epoch[0863]-Train_Loss: 0.0977
+2022/06/21 09:11:14 - INFO -:: Epoch[0864]-Train_Loss: 0.0970
+2022/06/21 09:13:45 - INFO -:: Eval:: dice_score: 0.79722 hausdorff_score: 0.9601 all_score: 0.89495
+2022/06/21 09:15:42 - INFO -:: Epoch[0865]-Train_Loss: 0.0994
+2022/06/21 09:17:39 - INFO -:: Epoch[0866]-Train_Loss: 0.0994
+2022/06/21 09:19:35 - INFO -:: Epoch[0867]-Train_Loss: 0.1010
+2022/06/21 09:21:36 - INFO -:: Epoch[0868]-Train_Loss: 0.0980
+2022/06/21 09:23:35 - INFO -:: Epoch[0869]-Train_Loss: 0.0976
+2022/06/21 09:26:07 - INFO -:: Eval:: dice_score: 0.79927 hausdorff_score: 0.96014 all_score: 0.89579
+2022/06/21 09:26:14 - INFO -:: Find better metric: val_metric 0.89517 -> 0.89579 💯🆕 in epoch[869] !!!
+2022/06/21 09:28:07 - INFO -:: Epoch[0870]-Train_Loss: 0.0958
+2022/06/21 09:30:06 - INFO -:: Epoch[0871]-Train_Loss: 0.0962
+2022/06/21 09:32:05 - INFO -:: Epoch[0872]-Train_Loss: 0.0944
+2022/06/21 09:34:01 - INFO -:: Epoch[0873]-Train_Loss: 0.1021
+2022/06/21 09:36:02 - INFO -:: Epoch[0874]-Train_Loss: 0.1033
+2022/06/21 09:38:31 - INFO -:: Eval:: dice_score: 0.80185 hausdorff_score: 0.95991 all_score: 0.89669
+2022/06/21 09:38:38 - INFO -:: Find better metric: val_metric 0.89579 -> 0.89669 💯🆕 in epoch[874] !!!
+2022/06/21 09:40:32 - INFO -:: Epoch[0875]-Train_Loss: 0.0983
+2022/06/21 09:42:30 - INFO -:: Epoch[0876]-Train_Loss: 0.0967
+2022/06/21 09:44:26 - INFO -:: Epoch[0877]-Train_Loss: 0.0992
+2022/06/21 09:46:25 - INFO -:: Epoch[0878]-Train_Loss: 0.0931
+2022/06/21 09:48:24 - INFO -:: Epoch[0879]-Train_Loss: 0.0995
+2022/06/21 09:50:55 - INFO -:: Eval:: dice_score: 0.79646 hausdorff_score: 0.96046 all_score: 0.89486
+2022/06/21 09:52:52 - INFO -:: Epoch[0880]-Train_Loss: 0.0972
+2022/06/21 09:54:53 - INFO -:: Epoch[0881]-Train_Loss: 0.0973
+2022/06/21 09:56:50 - INFO -:: Epoch[0882]-Train_Loss: 0.0938
+2022/06/21 09:58:48 - INFO -:: Epoch[0883]-Train_Loss: 0.0958
+2022/06/21 10:00:46 - INFO -:: Epoch[0884]-Train_Loss: 0.0971
+2022/06/21 10:03:18 - INFO -:: Eval:: dice_score: 0.80018 hausdorff_score: 0.96081 all_score: 0.89656
+2022/06/21 10:05:17 - INFO -:: Epoch[0885]-Train_Loss: 0.0995
+2022/06/21 10:07:15 - INFO -:: Epoch[0886]-Train_Loss: 0.1017
+2022/06/21 10:09:10 - INFO -:: Epoch[0887]-Train_Loss: 0.0982
+2022/06/21 10:11:06 - INFO -:: Epoch[0888]-Train_Loss: 0.0983
+2022/06/21 10:13:05 - INFO -:: Epoch[0889]-Train_Loss: 0.0959
+2022/06/21 10:15:37 - INFO -:: Eval:: dice_score: 0.80067 hausdorff_score: 0.96062 all_score: 0.89664
+2022/06/21 10:17:36 - INFO -:: Epoch[0890]-Train_Loss: 0.1070
+2022/06/21 10:19:34 - INFO -:: Epoch[0891]-Train_Loss: 0.1209
+2022/06/21 10:21:37 - INFO -:: Epoch[0892]-Train_Loss: 0.1247
+2022/06/21 10:23:34 - INFO -:: Epoch[0893]-Train_Loss: 0.1206
+2022/06/21 10:25:31 - INFO -:: Epoch[0894]-Train_Loss: 0.1198
+2022/06/21 10:28:03 - INFO -:: Eval:: dice_score: 0.77451 hausdorff_score: 0.95793 all_score: 0.88456
+2022/06/21 10:30:00 - INFO -:: Epoch[0895]-Train_Loss: 0.1101
+2022/06/21 10:32:00 - INFO -:: Epoch[0896]-Train_Loss: 0.1084
+2022/06/21 10:33:56 - INFO -:: Epoch[0897]-Train_Loss: 0.1303
+2022/06/21 10:35:53 - INFO -:: Epoch[0898]-Train_Loss: 0.1100
+2022/06/21 10:37:50 - INFO -:: Epoch[0899]-Train_Loss: 0.1093
+2022/06/21 10:40:18 - INFO -:: Eval:: dice_score: 0.75028 hausdorff_score: 0.95865 all_score: 0.8753
+2022/06/21 10:42:13 - INFO -:: Epoch[0900]-Train_Loss: 0.1175
+2022/06/21 10:44:13 - INFO -:: Epoch[0901]-Train_Loss: 0.1130
+2022/06/21 10:46:09 - INFO -:: Epoch[0902]-Train_Loss: 0.1121
+2022/06/21 10:48:08 - INFO -:: Epoch[0903]-Train_Loss: 0.1055
+2022/06/21 10:50:05 - INFO -:: Epoch[0904]-Train_Loss: 0.1097
+2022/06/21 10:52:37 - INFO -:: Eval:: dice_score: 0.79799 hausdorff_score: 0.95076 all_score: 0.88965
+2022/06/21 10:54:39 - INFO -:: Epoch[0905]-Train_Loss: 0.1077
+2022/06/21 10:56:35 - INFO -:: Epoch[0906]-Train_Loss: 0.1145
+2022/06/21 10:58:31 - INFO -:: Epoch[0907]-Train_Loss: 0.1020
+2022/06/21 11:00:27 - INFO -:: Epoch[0908]-Train_Loss: 0.1068
+2022/06/21 11:02:26 - INFO -:: Epoch[0909]-Train_Loss: 0.1093
+2022/06/21 11:04:58 - INFO -:: Eval:: dice_score: 0.78323 hausdorff_score: 0.95819 all_score: 0.8882
+2022/06/21 11:06:59 - INFO -:: Epoch[0910]-Train_Loss: 0.1068
+2022/06/21 11:08:53 - INFO -:: Epoch[0911]-Train_Loss: 0.1127
+2022/06/21 11:10:51 - INFO -:: Epoch[0912]-Train_Loss: 0.1064
+2022/06/21 11:12:48 - INFO -:: Epoch[0913]-Train_Loss: 0.1042
+2022/06/21 11:14:47 - INFO -:: Epoch[0914]-Train_Loss: 0.1001
+2022/06/21 11:17:18 - INFO -:: Eval:: dice_score: 0.78609 hausdorff_score: 0.95696 all_score: 0.88861
+2022/06/21 11:19:13 - INFO -:: Epoch[0915]-Train_Loss: 0.0983
+2022/06/21 11:21:11 - INFO -:: Epoch[0916]-Train_Loss: 0.1029
+2022/06/21 11:23:07 - INFO -:: Epoch[0917]-Train_Loss: 0.1038
+2022/06/21 11:25:03 - INFO -:: Epoch[0918]-Train_Loss: 0.1001
+2022/06/21 11:27:01 - INFO -:: Epoch[0919]-Train_Loss: 0.1008
+2022/06/21 11:29:32 - INFO -:: Eval:: dice_score: 0.77139 hausdorff_score: 0.95886 all_score: 0.88387
+2022/06/21 11:31:32 - INFO -:: Epoch[0920]-Train_Loss: 0.1097
+2022/06/21 11:33:29 - INFO -:: Epoch[0921]-Train_Loss: 0.1102
+2022/06/21 11:35:27 - INFO -:: Epoch[0922]-Train_Loss: 0.1079
+2022/06/21 11:37:24 - INFO -:: Epoch[0923]-Train_Loss: 0.1039
+2022/06/21 11:39:25 - INFO -:: Epoch[0924]-Train_Loss: 0.1061
+2022/06/21 11:41:57 - INFO -:: Eval:: dice_score: 0.7887 hausdorff_score: 0.95596 all_score: 0.88905
+2022/06/21 11:43:52 - INFO -:: Epoch[0925]-Train_Loss: 0.0988
+2022/06/21 11:45:49 - INFO -:: Epoch[0926]-Train_Loss: 0.1057
+2022/06/21 11:47:48 - INFO -:: Epoch[0927]-Train_Loss: 0.0992
+2022/06/21 11:49:45 - INFO -:: Epoch[0928]-Train_Loss: 0.1059
+2022/06/21 11:51:43 - INFO -:: Epoch[0929]-Train_Loss: 0.1091
+2022/06/21 11:54:13 - INFO -:: Eval:: dice_score: 0.80745 hausdorff_score: 0.95048 all_score: 0.89327
+2022/06/21 11:56:10 - INFO -:: Epoch[0930]-Train_Loss: 0.0988
+2022/06/21 11:58:07 - INFO -:: Epoch[0931]-Train_Loss: 0.0969
+2022/06/21 12:00:06 - INFO -:: Epoch[0932]-Train_Loss: 0.1086
+2022/06/21 12:02:03 - INFO -:: Epoch[0933]-Train_Loss: 0.1023
+2022/06/21 12:03:57 - INFO -:: Epoch[0934]-Train_Loss: 0.1063
+2022/06/21 12:06:27 - INFO -:: Eval:: dice_score: 0.79911 hausdorff_score: 0.95446 all_score: 0.89232
+2022/06/21 12:08:23 - INFO -:: Epoch[0935]-Train_Loss: 0.1132
+2022/06/21 12:10:22 - INFO -:: Epoch[0936]-Train_Loss: 0.1022
+2022/06/21 12:12:19 - INFO -:: Epoch[0937]-Train_Loss: 0.1079
+2022/06/21 12:14:16 - INFO -:: Epoch[0938]-Train_Loss: 0.1005
+2022/06/21 12:16:12 - INFO -:: Epoch[0939]-Train_Loss: 0.1075
+2022/06/21 12:18:42 - INFO -:: Eval:: dice_score: 0.7952 hausdorff_score: 0.9588 all_score: 0.89336
+2022/06/21 12:20:42 - INFO -:: Epoch[0940]-Train_Loss: 0.1032
+2022/06/21 12:22:39 - INFO -:: Epoch[0941]-Train_Loss: 0.0972
+2022/06/21 12:24:33 - INFO -:: Epoch[0942]-Train_Loss: 0.1025
+2022/06/21 12:26:28 - INFO -:: Epoch[0943]-Train_Loss: 0.0970
+2022/06/21 12:28:26 - INFO -:: Epoch[0944]-Train_Loss: 0.1027
+2022/06/21 12:30:55 - INFO -:: Eval:: dice_score: 0.79062 hausdorff_score: 0.96014 all_score: 0.89233
+2022/06/21 12:32:53 - INFO -:: Epoch[0945]-Train_Loss: 0.1012
+2022/06/21 12:34:48 - INFO -:: Epoch[0946]-Train_Loss: 0.0983
+2022/06/21 12:36:45 - INFO -:: Epoch[0947]-Train_Loss: 0.0972
+2022/06/21 12:38:41 - INFO -:: Epoch[0948]-Train_Loss: 0.1060
+2022/06/21 12:40:39 - INFO -:: Epoch[0949]-Train_Loss: 0.0957
+2022/06/21 12:43:08 - INFO -:: Eval:: dice_score: 0.80221 hausdorff_score: 0.95654 all_score: 0.89481
+2022/06/21 12:45:07 - INFO -:: Epoch[0950]-Train_Loss: 0.0968
+2022/06/21 12:47:05 - INFO -:: Epoch[0951]-Train_Loss: 0.1031
+2022/06/21 12:49:05 - INFO -:: Epoch[0952]-Train_Loss: 0.0948
+2022/06/21 12:51:04 - INFO -:: Epoch[0953]-Train_Loss: 0.0986
+2022/06/21 12:53:01 - INFO -:: Epoch[0954]-Train_Loss: 0.0978
+2022/06/21 12:55:30 - INFO -:: Eval:: dice_score: 0.79606 hausdorff_score: 0.9592 all_score: 0.89395
+2022/06/21 12:57:27 - INFO -:: Epoch[0955]-Train_Loss: 0.0991
+2022/06/21 12:59:25 - INFO -:: Epoch[0956]-Train_Loss: 0.0991
+2022/06/21 13:01:21 - INFO -:: Epoch[0957]-Train_Loss: 0.1015
+2022/06/21 13:03:15 - INFO -:: Epoch[0958]-Train_Loss: 0.0975
+2022/06/21 13:05:08 - INFO -:: Epoch[0959]-Train_Loss: 0.0966
+2022/06/21 13:07:39 - INFO -:: Eval:: dice_score: 0.80377 hausdorff_score: 0.96094 all_score: 0.89807
+2022/06/21 13:07:46 - INFO -:: Find better metric: val_metric 0.89669 -> 0.89807 💯🆕 in epoch[959] !!!
+2022/06/21 13:09:39 - INFO -:: Epoch[0960]-Train_Loss: 0.0966
+2022/06/21 13:11:36 - INFO -:: Epoch[0961]-Train_Loss: 0.0973
+2022/06/21 13:13:35 - INFO -:: Epoch[0962]-Train_Loss: 0.0953
+2022/06/21 13:15:32 - INFO -:: Epoch[0963]-Train_Loss: 0.1054
+2022/06/21 13:17:29 - INFO -:: Epoch[0964]-Train_Loss: 0.0980
+2022/06/21 13:20:00 - INFO -:: Eval:: dice_score: 0.79615 hausdorff_score: 0.96224 all_score: 0.8958
+2022/06/21 13:21:57 - INFO -:: Epoch[0965]-Train_Loss: 0.0934
+2022/06/21 13:23:57 - INFO -:: Epoch[0966]-Train_Loss: 0.1006
+2022/06/21 13:25:52 - INFO -:: Epoch[0967]-Train_Loss: 0.0947
+2022/06/21 13:27:48 - INFO -:: Epoch[0968]-Train_Loss: 0.0954
+2022/06/21 13:29:46 - INFO -:: Epoch[0969]-Train_Loss: 0.0920
+2022/06/21 13:32:18 - INFO -:: Eval:: dice_score: 0.8084 hausdorff_score: 0.95889 all_score: 0.89869
+2022/06/21 13:32:25 - INFO -:: Find better metric: val_metric 0.89807 -> 0.89869 💯🆕 in epoch[969] !!!
+2022/06/21 13:34:17 - INFO -:: Epoch[0970]-Train_Loss: 0.0990
+2022/06/21 13:36:14 - INFO -:: Epoch[0971]-Train_Loss: 0.0960
+2022/06/21 13:38:16 - INFO -:: Epoch[0972]-Train_Loss: 0.1024
+2022/06/21 13:40:13 - INFO -:: Epoch[0973]-Train_Loss: 0.0963
+2022/06/21 13:42:11 - INFO -:: Epoch[0974]-Train_Loss: 0.0959
+2022/06/21 13:44:41 - INFO -:: Eval:: dice_score: 0.805 hausdorff_score: 0.96062 all_score: 0.89837
+2022/06/21 13:46:43 - INFO -:: Epoch[0975]-Train_Loss: 0.0979
+2022/06/21 13:48:39 - INFO -:: Epoch[0976]-Train_Loss: 0.0978
+2022/06/21 13:50:39 - INFO -:: Epoch[0977]-Train_Loss: 0.0974
+2022/06/21 13:52:36 - INFO -:: Epoch[0978]-Train_Loss: 0.0924
+2022/06/21 13:54:33 - INFO -:: Epoch[0979]-Train_Loss: 0.0946
+2022/06/21 13:57:05 - INFO -:: Eval:: dice_score: 0.80098 hausdorff_score: 0.96169 all_score: 0.89741
+2022/06/21 13:59:03 - INFO -:: Epoch[0980]-Train_Loss: 0.1000
+2022/06/21 14:01:05 - INFO -:: Epoch[0981]-Train_Loss: 0.0994
+2022/06/21 14:03:02 - INFO -:: Epoch[0982]-Train_Loss: 0.0928
+2022/06/21 14:05:01 - INFO -:: Epoch[0983]-Train_Loss: 0.1010
+2022/06/21 14:07:02 - INFO -:: Epoch[0984]-Train_Loss: 0.0884
+2022/06/21 14:09:34 - INFO -:: Eval:: dice_score: 0.8008 hausdorff_score: 0.96105 all_score: 0.89695
+2022/06/21 14:11:34 - INFO -:: Epoch[0985]-Train_Loss: 0.0900
+2022/06/21 14:13:34 - INFO -:: Epoch[0986]-Train_Loss: 0.0924
+2022/06/21 14:15:34 - INFO -:: Epoch[0987]-Train_Loss: 0.0989
+2022/06/21 14:17:28 - INFO -:: Epoch[0988]-Train_Loss: 0.0964
+2022/06/21 14:19:25 - INFO -:: Epoch[0989]-Train_Loss: 0.1028
+2022/06/21 14:22:00 - INFO -:: Eval:: dice_score: 0.79453 hausdorff_score: 0.95995 all_score: 0.89378
+2022/06/21 14:24:01 - INFO -:: Epoch[0990]-Train_Loss: 0.1058
+2022/06/21 14:26:00 - INFO -:: Epoch[0991]-Train_Loss: 0.1260
+2022/06/21 14:27:57 - INFO -:: Epoch[0992]-Train_Loss: 0.1247
+2022/06/21 14:29:55 - INFO -:: Epoch[0993]-Train_Loss: 0.1088
+2022/06/21 14:31:53 - INFO -:: Epoch[0994]-Train_Loss: 0.1046
+2022/06/21 14:34:23 - INFO -:: Eval:: dice_score: 0.76677 hausdorff_score: 0.96009 all_score: 0.88276
+2022/06/21 14:36:22 - INFO -:: Epoch[0995]-Train_Loss: 0.1077
+2022/06/21 14:38:16 - INFO -:: Epoch[0996]-Train_Loss: 0.1158
+2022/06/21 14:40:15 - INFO -:: Epoch[0997]-Train_Loss: 0.1128
+2022/06/21 14:42:11 - INFO -:: Epoch[0998]-Train_Loss: 0.1152
+2022/06/21 14:44:08 - INFO -:: Epoch[0999]-Train_Loss: 0.1104
+2022/06/21 14:46:41 - INFO -:: Eval:: dice_score: 0.7935 hausdorff_score: 0.95297 all_score: 0.88919
